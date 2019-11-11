@@ -15,13 +15,14 @@
   </script>
 
   
-  <title>Yu Li&#39;s page</title>
+  <title>Tags | Yu Li&#39;s page</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta property="og:type" content="website">
-<meta property="og:title" content="Yu Li&#39;s page">
-<meta property="og:url" content="http:&#x2F;&#x2F;yoursite.com&#x2F;index.html">
+<meta property="og:title" content="Tags">
+<meta property="og:url" content="http:&#x2F;&#x2F;yoursite.com&#x2F;tags&#x2F;index.html">
 <meta property="og:site_name" content="Yu Li&#39;s page">
 <meta property="og:locale" content="en">
+<meta property="og:updated_time" content="2019-11-10T22:27:30.717Z">
 <meta name="twitter:card" content="summary">
   
     <link rel="alternate" href="/atom.xml" title="Yu Li&#39;s page" type="application/atom+xml">
@@ -117,245 +118,78 @@
   <div id="main-wrap" class="position-relative" style="margin-top: 55px;">
       <div class="main-inner-content">
           <style>
-    .post-hover:hover {
-        box-shadow: inset 0 0 100px #000;
-        transition: box-shadow .2s;
+    .categories-title {
+        margin-top: 85px;
     }
 
-    .sub-post-container .post-hover:hover h3 {
-        text-decoration: underline gray;
+    .categories-title strong {
+        padding: 0 10px 5px;
+        text-transform: capitalize;
+        border-top: 2px solid #000;
+        border-bottom: 2px solid #000;
     }
 
-
-    .primary-item-main {
-        height: 330px;
-        background-size: cover;
+    .categories-box {
+        min-height: 90vh;
     }
 
-    .primary-container .title,
-    .primary-container .sub-title,
-    .primary-container .post-content-text,
-    .primary-container .date {
-        color: #fff;
-    }
-
-    .post-content-text {
-        color: #f1f1f1!important;
-    }
-
-    .primary-container .post-hover {
-        background: black;
-    }
-
-    .content-bg-mask {
-        background: rgba(0,0,0,.4);
-    }
-
-</style>
-
-<div style="background: #f5f8f9;">
-    <div id="main-container" class="container" style="padding-top: 20px;">
-        <div class="is-flex main-content justify-center">
-            <section class="column is-9">
-                
-<div class="primary-container content-box is-flex-desktop clear-padding bottom-line" style="margin-bottom: 25px;">
-    <div class="column  is-12">
-        <a href="/2019/11/09/hello-world/">
-            <div class="full-height post-hover"
-                 style="
-                         background-image: url('');
-                         height: 350px;
-                         background-size: cover;
-                         background-repeat: no-repeat;
-                         ">
-                    <div class=" is-flex flex-column center content has-text-centered full-height has-padding content-bg-mask">
-                        <h1 class="title text-shadow" style="margin-bottom: 15px;">
-                            Hello World
-                        </h1>
-                        <div>
-                        
-                            
-                        
-                        </div>
-                        <p class="post-content-text is-marginless has-padding text-shadow">
-                            Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using H..
-                        </p>
-                        <p class="date text-shadow">2019-11-09</p>
-                        <button class="button is-info is-small">Read More</button>
-                    </div>
-            </div>
-        </a>
-    </div>
-    <div class="column is-5 is-hidden-touch" style="padding-left: 0;">
-        <div class="full-height is-flex flex-column justify-space-between" style="min-height: 350px;">
-            
-            
-        </div>
-    </div>
-    <div class="column is-12 is-hidden-desktop">
-        
-        
-    </div>
-</div>
-
-                    
-                    
-                
-                <!--翻頁-->
-                <nav class="pagination is-flex" style="justify-content: flex-end">
-                    
-                        
-                        
-                    
-                </nav>
-            </section>
-            
-                <style>
-    /*user info start*/
-    .user-info {
-        padding: 15px 0 0;
-    }
-
-    .user-info .avatar {
-        width: 155px;
-        height: 155px;
-        border-radius: 50%;
-    }
-
-    .sns-container {
+    .categories-inner {
         flex-wrap: wrap;
+        min-height: 350px;
     }
 
-    .sns-container a{
-        color: black;
-    }
-    /*user info end*/
+    .category-link, .tag-link {
+        position: relative;
 
-    /*Tag start*/
-    #tag_cloud .tags-item{
-        display: inline-block;
-        color: #000;
-        border: 1px solid gray;
-
-        margin: 4px 2px;
-        padding: 0 4px;
-        border-radius: 6px;
-    }
-    /*Tag end*/
-
-    /*Site box start*/
-    .site-box {
-        height: 60px;
-    }
-    /*Site box end*/
-
-    .category-list-item,
-    .archive-list-item {
         display: flex;
-        margin-bottom: 4px;
-        justify-content: space-between;
-    }
-    .category-list-link,
-    .archive-list-link {
-        color: black;
+        align-items: center;
+        justify-content: center;
+
+        height: 80px;
+        width: 80px;
+        padding: 12px;
+        margin: 15px;
+        border-radius: 50%;
+
+        color: #FFF;
+        background-color: #00d1b2;
     }
 
-    .category-list-count,
-    .archive-list-count {
-        width: 32px;
-        text-align: center;
-        border-radius: 4px;
-        color: #fff;
-        background-color: gray;
+    .category-count, .tag-count {
+        position: absolute;
+        top:0;
+        right: 5px;
+
+        display: flex;
+        align-items:center;
+        justify-content: center;
+
+        width: 22px;
+        height: 22px;
+        border-radius: 50%;
+        background-color: black;
     }
+
 </style>
-<aside class="column is-hidden-touch is-3" style="max-width: 280px; min-width: 230px">
-    <div class="content-box user-info">
-        <div class="has-padding">
-            <header class="has-text-centered">
-                <img class="avatar" src="/images/avatar.png">
-            </header>
-            <section class="has-text-centered">
-                <h3><strong>Yu Li</strong></h3>
-                <p class="sub-title">PhD student and skyrmionior</p>
-                
-                <p class="is-flex center" style=" color: gray">
-                    <i class="fa fa-map-marker" style="padding: 5px"></i>
-                    Uni of Manchester, UK
-                </p>
-                
-            </section>
-        </div>
-        <div class="top-line">
-            <ul class="sns-container justify-center is-flex has-padding">
-                
-
-                
-
-                
-
-                
-
-                
-
-                
-                <li>
-                    <a target="_blank" href="https://github.com/yuli-nano">
-                                        <span class="fa-stack fa-lg">
-                                            <i class="fa fa-circle fa-stack-2x"></i>
-                                            <i class="fa fa-github fa-stack-1x fa-inverse"></i>
-                                        </span>
-                    </a>
-                </li>
-                
-
-                
-            </ul>
-        </div>
+<div class="container categories-box">
+    <div class="content categories-title">
+        <h1 class="has-text-centered"><strong>Tags</strong></h1>
     </div>
-    <div class="content-box">
-        <!--post数量和tag category 数量-->
-        <div class="site-box is-flex">
-            <div class="flex-1 is-flex flex-column center full-height right-line">
-                <strong>1</strong>
-                <p>Posts</p>
-            </div>
-            <div class="flex-1 is-flex flex-column center full-height">
-                <strong></strong>
-                <p>Tags</p>
-            </div>
-        </div>
-    </div>
-    <div id='tag_cloud' class="content-inner content-box">
-        <div class="has-text-centered">
-            <strong>Tags</strong>
-        </div>
-        <div class="content-inner is-flex flex-wrap justify-space-between">
-            
-        </div>
-    </div>
-    <div class="content-inner content-box">
-        <div class="has-text-centered">
-            <strong>Categories</strong>
-        </div>
-        <div class="content-inner">
-            
-        </div>
-    </div>
-    <div class="content-inner content-box">
-        <div class="has-text-centered">
-            <strong>Archives</strong>
-        </div>
-        <div class="content-inner">
-            <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2019/11/">November 2019</a><span class="archive-list-count">1</span></li></ul>
-        </div>
-    </div>
-</aside>
-            
-        </div>
+    <div class="categories-inner is-flex center">
+        
+            <h2>Tags is Empty</h2>
+        
     </div>
 </div>
-
+<script>
+    //    var allItem = document.querySelectorAll('.category-list-item')
+    //    allItem.forEach(function (item, index) {
+    //        var containerWidth = 80
+    //        var itemChilds = item.querySelectorAll('.category-list-child')
+    //        item.style.width = containerWidth * itemChilds.length + 'px'
+    //        item.classList.add('debug')
+    //    })
+</script>
       </div>
   </div>
   <style>
