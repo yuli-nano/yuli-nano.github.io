@@ -13,5 +13,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://yu-li.me/sitemap.xml
-Sitemap: http://yu-li.me/baidusitemap.xml
+Sitemap: https://yu-li.me/sitemap.xml
+Sitemap: https://yu-li.me/baidusitemap.xml
