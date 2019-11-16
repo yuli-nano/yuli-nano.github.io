@@ -5,9 +5,9 @@
   <subtitle>A PhD student and skyrmionior @University of Manchester, UK</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="https://yu-li.me/"/>
+  <link href="http://yu-li.me/"/>
   <updated>2019-11-15T22:55:01.643Z</updated>
-  <id>https://yu-li.me/</id>
+  <id>http://yu-li.me/</id>
   
   <author>
     <name>Yu Li</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://yu-li.me/hello-world.html"/>
-    <id>https://yu-li.me/hello-world.html</id>
+    <link href="http://yu-li.me/hello-world.html"/>
+    <id>http://yu-li.me/hello-world.html</id>
     <published>2019-11-09T22:45:40.624Z</published>
     <updated>2019-11-15T22:55:01.643Z</updated>
     
@@ -34,7 +34,7 @@
     
     
     
-      <category term="test" scheme="https://yu-li.me/tags/test/"/>
+      <category term="test" scheme="http://yu-li.me/tags/test/"/>
     
   </entry>
   
