@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yu-li.me/"/>
-  <updated>2019-11-16T17:27:23.230Z</updated>
+  <updated>2019-11-27T23:15:27.993Z</updated>
   <id>https://yu-li.me/</id>
   
   <author>
@@ -17,24 +17,134 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="https://yu-li.me/hello-world.html"/>
-    <id>https://yu-li.me/hello-world.html</id>
-    <published>2019-11-09T22:45:40.624Z</published>
-    <updated>2019-11-16T17:27:23.230Z</updated>
+    <title>HMM 2019 @ HERAKLION, CRETE</title>
+    <link href="https://yu-li.me/20190524_Conference-HMM2019.html"/>
+    <id>https://yu-li.me/20190524_Conference-HMM2019.html</id>
+    <published>2019-05-23T23:00:00.000Z</published>
+    <updated>2019-11-27T23:15:27.993Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><a id="more"></a><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+    <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20190524_Conference-HMM2019.jpg"><p>Really excited to participate the 12th International Symposium on Hysteresis Modeling and Micromagnetics (<a href="http://users.math.uoc.gr/~komineas/HMM2019/index.html" target="_blank" rel="noopener">HMM2019</a>) in Crete, Greece from 19th-22nd of May, 2019. I presented a talk in the first session “Magnetic Solitons I”, with the title “Controllable THz Bloch-point propagation in the switching process of magnetic skyrmions“. I also presented a poster from our recently published work <a href=""><strong><em>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films</em></strong></a>.</p><p><code>skyrmion</code> <code>HMM</code> <code>academic activity</code></p>]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;
+      
+      
+        &lt;img style=&quot;margin: auto;&quot; src=&quot;/images/20190524_Conference-HMM2019.jpg&quot;&gt;
+
+&lt;p&gt;Really excited to participate the 12th International Symposium
+      
     
     </summary>
     
     
     
-      <category term="test" scheme="https://yu-li.me/tags/test/"/>
+      <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
+    
+      <category term="HMM" scheme="https://yu-li.me/tags/HMM/"/>
+    
+      <category term="academic activity" scheme="https://yu-li.me/tags/academic-activity/"/>
+    
+      <category term="2019" scheme="https://yu-li.me/tags/2019/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Field-induced magnetic switching of ideal/defective skyrmion lattices</title>
+    <link href="https://yu-li.me/20181112_Switching-of-ideal-defective-skyrmion-lattices.html"/>
+    <id>https://yu-li.me/20181112_Switching-of-ideal-defective-skyrmion-lattices.html</id>
+    <published>2018-11-12T00:00:00.000Z</published>
+    <updated>2019-11-27T22:58:00.704Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Collective-antiskyrmion-mediated-phase-transition-and-defect-induced-melting-in-chiral-magnetic-films"><a href="#Collective-antiskyrmion-mediated-phase-transition-and-defect-induced-melting-in-chiral-magnetic-films" class="headerlink" title="Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films"></a>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films</h1><img style="margin: auto;" src="/images/20181112_Switching-of-ideal-defective-skyrmion-lattices.png"><p>(Abstract) Magnetic phase transitions are a manifestation of competing interactions whose behavior is critically modified by defects and becomes even more complex when topological constraints are involved. In particular, the investigation of skyrmions and skyrmion lattices offers insight into fundamental processes of topological-charge creation and annihilation upon changing the magnetic state. Nonetheless, the exact physical mechanisms behind these phase transitions remain unresolved. Here, we show numerically that it is possible to collectively reverse the polarity of a skyrmion lattice in a field-induced first-order phase transition via a transient antiskyrmion-lattice state. We thus propose a new type of phase transformation where a skyrmion lattice inverts to another one due to topological constraints. In the presence of even a single defect, the process becomes a second-order phase transition with gradual topological-charge melting. This radical change in the system’s behavior from a first-order to a second-order phase transition demonstrates that defects in real materials could prevent us from observing collective topological phenomena. We have systematically compared ultra-thin films with isotropic and anisotropic Dzyaloshinskii-Moriya interactions (DMIs), and demonstrated a nearly identical behavior for such technologically relevant interfacial systems.</p><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><blockquote><p>L. Pierobon, C. Moutafis, <strong>Y. Li</strong>, J. F. Löffler, and M. Charilaou<br>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films. <strong><em>Scientific Reports</em></strong> 8, 16675 <a href="https://www.nature.com/articles/s41598-018-34526-0" target="_blank" rel="noopener"><code>Link</code></a> <a href="https://arxiv.org/abs/1805.10230" target="_blank" rel="noopener"><code>Arxiv</code></a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;img style=&quot;margin: auto;&quot; src=&quot;/images/20181112_Switching-of-ideal-defective-skyrmion-lattices.png&quot;&gt;
+
+&lt;p&gt;(Abstract) Magnetic phase transitions are a manifestation of competing interactions whose behavior is critically modified by defects and becomes even more complex when topological constraints are involved. In particular, the investigation of skyrmions and skyrmion lattices offers insight into fundamental processes of topological-charge creation and annihilation upon changing the magnetic state. Nonetheless …&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;skyrmion&lt;/code&gt; &lt;code&gt;skyrmion lattice&lt;/code&gt; &lt;code&gt;antiskyrmion&lt;/code&gt; &lt;code&gt;field-induced transition&lt;/code&gt; &lt;code&gt;defects&lt;/code&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
+    
+      <category term="skyrmion lattice" scheme="https://yu-li.me/tags/skyrmion-lattice/"/>
+    
+      <category term="antiskyrmion" scheme="https://yu-li.me/tags/antiskyrmion/"/>
+    
+      <category term="field-induced transition" scheme="https://yu-li.me/tags/field-induced-transition/"/>
+    
+      <category term="defects" scheme="https://yu-li.me/tags/defects/"/>
+    
+      <category term="2018" scheme="https://yu-li.me/tags/2018/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A Monte Carlo model for RRAM switching</title>
+    <link href="https://yu-li.me/20170911_A-Monte-Carlo-model-for-RRAM-switching.html"/>
+    <id>https://yu-li.me/20170911_A-Monte-Carlo-model-for-RRAM-switching.html</id>
+    <published>2017-09-10T23:00:00.000Z</published>
+    <updated>2019-11-27T22:58:04.504Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Investigation-on-the-Conductive-Filament-Growth-Dynamics-in-Resistive-Switching-Memory-via-a-Universal-Monte-Carlo-Simulator"><a href="#Investigation-on-the-Conductive-Filament-Growth-Dynamics-in-Resistive-Switching-Memory-via-a-Universal-Monte-Carlo-Simulator" class="headerlink" title="Investigation on the Conductive Filament Growth Dynamics in Resistive Switching Memory via a Universal Monte Carlo Simulator"></a>Investigation on the Conductive Filament Growth Dynamics in Resistive Switching Memory via a Universal Monte Carlo Simulator</h1><img style="margin: auto;" src="/images/20170911_RRAM_MonteCarlo.png">(Abstract) In resistive random access memories, modeling conductive filament growing dynamics is important to understand the switching mechanism and variability. In this paper, a universal Monte Carlo simulator is developed based on a cell switching model and a tunneling-based transport model. Driven by external electric field, the growing process of the nanoscale filament occurring in the gap region is actually dominated by cells’ conductive/insulating switching, modeled through a phenomenological physics-based probability function. The electric transport through the partially formed CF is considered as current tunneling in the framework of the Quantum Point Contact model, and the potential barrier is modulated during cells’ evolution. To demonstrate the validity and universality of our simulator, various operation schemes are simulated, with the simulated I − V characteristics well explaining experimental observations. Furthermore, the statistical analyses of simulation results in terms of Weibull distribution and conductance evolution also nicely track previous experimental results. Representing a simulation scale that links atomic-scale simulations to compact modeling, our simulator has the advantage of being much faster comparing with other atomic-scale models. Meanwhile, our simulator shows good universality since it can be applied to various operation signals, and also to different electrodes and dielectric layers dominated by different switching mechanisms.<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><blockquote><p><strong>Y. Li</strong>, M. Zhang, S. Long, J. Teng, Q. Liu, H. Lv, E. Miranda, J. Suñé, and M. Liu<br>Investigation on the conductive filament growth dynamics in resistive switching memory via a universal Monte Carlo simulator.  <strong><em>Scientific Reports</em></strong> 7, 11204 <a href="https://www.nature.com/articles/s41598-017-11165-5#Sec16" target="_blank" rel="noopener"><code>Link</code></a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;img style=&quot;margin: auto;&quot; src=&quot;/images/20170911_RRAM_MonteCarlo.png&quot;&gt;
+
+&lt;p&gt;(Abstract) In resistive random access memories, modeling conductive filament growing dynamics is important to understand the switching mechanism and variability. In this paper, a universal Monte Carlo simulator is developed based on a cell switching model and a tunneling-based transport model. Driven by external electric field …&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;resistive random access memory (RRAM)&lt;/code&gt; &lt;code&gt;Monte Carlo&lt;/code&gt; &lt;code&gt;resistive switching&lt;/code&gt; &lt;code&gt;conductive filament&lt;/code&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="resistive random access memory (RRAM)" scheme="https://yu-li.me/tags/resistive-random-access-memory-RRAM/"/>
+    
+      <category term="resistive switching" scheme="https://yu-li.me/tags/resistive-switching/"/>
+    
+      <category term="conductive filament" scheme="https://yu-li.me/tags/conductive-filament/"/>
+    
+      <category term="2017" scheme="https://yu-li.me/tags/2017/"/>
+    
+      <category term="Monte Carlo" scheme="https://yu-li.me/tags/Monte-Carlo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A review of RRAM</title>
+    <link href="https://yu-li.me/20170418_A-review-of-RRAM.html"/>
+    <id>https://yu-li.me/20170418_A-review-of-RRAM.html</id>
+    <published>2017-04-17T23:00:00.000Z</published>
+    <updated>2019-11-27T22:57:55.843Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Resistive-Switching-Performance-Improvement-via-Modulating-Nanoscale-Conductive-Filament-Involving-the-Application-of-Two‐Dimensional-Layered-Materials"><a href="#Resistive-Switching-Performance-Improvement-via-Modulating-Nanoscale-Conductive-Filament-Involving-the-Application-of-Two‐Dimensional-Layered-Materials" class="headerlink" title="Resistive Switching Performance Improvement via Modulating Nanoscale Conductive Filament, Involving the Application of Two‐Dimensional Layered Materials"></a>Resistive Switching Performance Improvement via Modulating Nanoscale Conductive Filament, Involving the Application of Two‐Dimensional Layered Materials</h1><img style="margin: auto;" src="/images/20170418_A-review-of-RRAM.png"><p>(Abstract) Reversible chemical and structural changes induced by ionic motion and reaction in response to electrical stimuli leads to resistive switching effects in metal-insulator-metal structures. Filamentary switching based on the formation and rupture of nanoscale conductive filament has been applied in non-volatile memory and volatile selector devices with low power consumption and fast switching speeds. Before the mass production of resistive switching devices, great efforts are still required to enable stable and reliable switching performances. The conductive filament, a bridge of microscopic metal-insulator-metal structure and macroscopic resistance states, plays an irreplaceable part in resistive switching behavior, as unreliable performance often originates from unstable filament behavior. In this Review, departing from the filamentary switching mechanism and the existing issues, recent advances of the switching performance improvement through the conductive filament modulation are discussed, in the sequence of material modulation, device structure design and switching operation scheme optimization. In particular, two-dimensional (2D) nanomaterials with excellent properties including and beyond graphene, are discussed with emphasis on performance improvement by their active roles as the switching layer, insertion layer, thin electrode, patterned electrode, and edge electrode, etc.</p><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><blockquote><p><strong>Y. Li</strong>, S. Long, Q. Liu, H. Lv, and M. Liu<br>Resistive Switching Performance Improvement via Modulating Nanoscale Conductive Filament, Involving the Application of Two‐Dimensional Layered Materials. <strong><em>Small</em></strong> 13, 1604306 - Selected as <a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.201770187" target="_blank" rel="noopener">front cover</a> article <a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.201604306" target="_blank" rel="noopener"><code>Link</code></a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;img style=&quot;margin: auto;&quot; src=&quot;/images/20170418_A-review-of-RRAM.png&quot;&gt;
+
+&lt;p&gt;(Abstract) Reversible chemical and structural changes induced by ionic motion and reaction in response to electrical stimuli leads to resistive switching effects in metal-insulator-metal structures. Filamentary switching based on the formation and rupture of nanoscale conductive filament has been applied in …&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;resistive random access memory (RRAM)&lt;/code&gt; &lt;code&gt;resistive switching&lt;/code&gt; &lt;code&gt;conductive filament&lt;/code&gt; &lt;code&gt;two‐dimensional materials&lt;/code&gt; &lt;code&gt;performance improvement&lt;/code&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="resistive random access memory (RRAM)" scheme="https://yu-li.me/tags/resistive-random-access-memory-RRAM/"/>
+    
+      <category term="resistive switching" scheme="https://yu-li.me/tags/resistive-switching/"/>
+    
+      <category term="conductive filament" scheme="https://yu-li.me/tags/conductive-filament/"/>
+    
+      <category term="two‐dimensional materials" scheme="https://yu-li.me/tags/two%E2%80%90dimensional-materials/"/>
+    
+      <category term="performance improvement" scheme="https://yu-li.me/tags/performance-improvement/"/>
+    
+      <category term="2017" scheme="https://yu-li.me/tags/2017/"/>
     
   </entry>
   
