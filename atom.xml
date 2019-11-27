@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yu-li.me/"/>
-  <updated>2019-11-27T23:15:27.993Z</updated>
+  <updated>2019-11-27T23:24:07.852Z</updated>
   <id>https://yu-li.me/</id>
   
   <author>
@@ -21,9 +21,9 @@
     <link href="https://yu-li.me/20190524_Conference-HMM2019.html"/>
     <id>https://yu-li.me/20190524_Conference-HMM2019.html</id>
     <published>2019-05-23T23:00:00.000Z</published>
-    <updated>2019-11-27T23:15:27.993Z</updated>
+    <updated>2019-11-27T23:24:07.852Z</updated>
     
-    <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20190524_Conference-HMM2019.jpg"><p>Really excited to participate the 12th International Symposium on Hysteresis Modeling and Micromagnetics (<a href="http://users.math.uoc.gr/~komineas/HMM2019/index.html" target="_blank" rel="noopener">HMM2019</a>) in Crete, Greece from 19th-22nd of May, 2019. I presented a talk in the first session “Magnetic Solitons I”, with the title “Controllable THz Bloch-point propagation in the switching process of magnetic skyrmions“. I also presented a poster from our recently published work <a href=""><strong><em>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films</em></strong></a>.</p><p><code>skyrmion</code> <code>HMM</code> <code>academic activity</code></p>]]></content>
+    <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20190524_Conference-HMM2019.jpg"><p>Really excited to participate the 12th International Symposium on Hysteresis Modeling and Micromagnetics (<a href="http://users.math.uoc.gr/~komineas/HMM2019/index.html" target="_blank" rel="noopener">HMM2019</a>) in Crete, Greece from 19th-22nd of May, 2019. I presented a talk in the first session “Magnetic Solitons I”, with the title “Controllable THz Bloch-point propagation in the switching process of magnetic skyrmions“. I also presented a poster from our recently published work <a href="/20181112_Switching-of-ideal-defective-skyrmion-lattices.html"><strong><em>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films</em></strong></a>.</p><p><code>skyrmion</code> <code>HMM</code> <code>academic activity</code></p>]]></content>
     
     <summary type="html">
     
@@ -104,13 +104,13 @@
     
       <category term="resistive random access memory (RRAM)" scheme="https://yu-li.me/tags/resistive-random-access-memory-RRAM/"/>
     
+      <category term="Monte Carlo" scheme="https://yu-li.me/tags/Monte-Carlo/"/>
+    
       <category term="resistive switching" scheme="https://yu-li.me/tags/resistive-switching/"/>
     
       <category term="conductive filament" scheme="https://yu-li.me/tags/conductive-filament/"/>
     
       <category term="2017" scheme="https://yu-li.me/tags/2017/"/>
-    
-      <category term="Monte Carlo" scheme="https://yu-li.me/tags/Monte-Carlo/"/>
     
   </entry>
   
@@ -140,11 +140,11 @@
     
       <category term="conductive filament" scheme="https://yu-li.me/tags/conductive-filament/"/>
     
+      <category term="2017" scheme="https://yu-li.me/tags/2017/"/>
+    
       <category term="two‐dimensional materials" scheme="https://yu-li.me/tags/two%E2%80%90dimensional-materials/"/>
     
       <category term="performance improvement" scheme="https://yu-li.me/tags/performance-improvement/"/>
-    
-      <category term="2017" scheme="https://yu-li.me/tags/2017/"/>
     
   </entry>
   
