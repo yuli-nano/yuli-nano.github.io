@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yu-li.me/"/>
-  <updated>2019-11-27T23:24:07.852Z</updated>
+  <updated>2019-11-27T23:24:59.031Z</updated>
   <id>https://yu-li.me/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://yu-li.me/20190524_Conference-HMM2019.html"/>
     <id>https://yu-li.me/20190524_Conference-HMM2019.html</id>
     <published>2019-05-23T23:00:00.000Z</published>
-    <updated>2019-11-27T23:24:07.852Z</updated>
+    <updated>2019-11-27T23:24:59.031Z</updated>
     
     <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20190524_Conference-HMM2019.jpg"><p>Really excited to participate the 12th International Symposium on Hysteresis Modeling and Micromagnetics (<a href="http://users.math.uoc.gr/~komineas/HMM2019/index.html" target="_blank" rel="noopener">HMM2019</a>) in Crete, Greece from 19th-22nd of May, 2019. I presented a talk in the first session “Magnetic Solitons I”, with the title “Controllable THz Bloch-point propagation in the switching process of magnetic skyrmions“. I also presented a poster from our recently published work <a href="/20181112_Switching-of-ideal-defective-skyrmion-lattices.html"><strong><em>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films</em></strong></a>.</p><p><code>skyrmion</code> <code>HMM</code> <code>academic activity</code></p>]]></content>
     
@@ -87,7 +87,7 @@
     <link href="https://yu-li.me/20170911_A-Monte-Carlo-model-for-RRAM-switching.html"/>
     <id>https://yu-li.me/20170911_A-Monte-Carlo-model-for-RRAM-switching.html</id>
     <published>2017-09-10T23:00:00.000Z</published>
-    <updated>2019-11-27T22:58:04.504Z</updated>
+    <updated>2019-11-28T23:30:47.906Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Investigation-on-the-Conductive-Filament-Growth-Dynamics-in-Resistive-Switching-Memory-via-a-Universal-Monte-Carlo-Simulator"><a href="#Investigation-on-the-Conductive-Filament-Growth-Dynamics-in-Resistive-Switching-Memory-via-a-Universal-Monte-Carlo-Simulator" class="headerlink" title="Investigation on the Conductive Filament Growth Dynamics in Resistive Switching Memory via a Universal Monte Carlo Simulator"></a>Investigation on the Conductive Filament Growth Dynamics in Resistive Switching Memory via a Universal Monte Carlo Simulator</h1><img style="margin: auto;" src="/images/20170911_RRAM_MonteCarlo.png">(Abstract) In resistive random access memories, modeling conductive filament growing dynamics is important to understand the switching mechanism and variability. In this paper, a universal Monte Carlo simulator is developed based on a cell switching model and a tunneling-based transport model. Driven by external electric field, the growing process of the nanoscale filament occurring in the gap region is actually dominated by cells’ conductive/insulating switching, modeled through a phenomenological physics-based probability function. The electric transport through the partially formed CF is considered as current tunneling in the framework of the Quantum Point Contact model, and the potential barrier is modulated during cells’ evolution. To demonstrate the validity and universality of our simulator, various operation schemes are simulated, with the simulated I − V characteristics well explaining experimental observations. Furthermore, the statistical analyses of simulation results in terms of Weibull distribution and conductance evolution also nicely track previous experimental results. Representing a simulation scale that links atomic-scale simulations to compact modeling, our simulator has the advantage of being much faster comparing with other atomic-scale models. Meanwhile, our simulator shows good universality since it can be applied to various operation signals, and also to different electrodes and dielectric layers dominated by different switching mechanisms.<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><blockquote><p><strong>Y. Li</strong>, M. Zhang, S. Long, J. Teng, Q. Liu, H. Lv, E. Miranda, J. Suñé, and M. Liu<br>Investigation on the conductive filament growth dynamics in resistive switching memory via a universal Monte Carlo simulator.  <strong><em>Scientific Reports</em></strong> 7, 11204 <a href="https://www.nature.com/articles/s41598-017-11165-5#Sec16" target="_blank" rel="noopener"><code>Link</code></a></p></blockquote>]]></content>
     
