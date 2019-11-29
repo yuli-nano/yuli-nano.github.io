@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>THz-oscillating electric signal from Bloch point dynamics</title>
+    <url>/20191128_THz-Bloch-point-dynamics.html</url>
+    <content><![CDATA[<h1 id="Tuneable-terahertz-oscillation-arising-from-Bloch-point-dynamics-in-chiral-magnets"><a href="#Tuneable-terahertz-oscillation-arising-from-Bloch-point-dynamics-in-chiral-magnets" class="headerlink" title="Tuneable terahertz oscillation arising from Bloch-point dynamics in chiral magnets"></a>Tuneable terahertz oscillation arising from Bloch-point dynamics in chiral magnets</h1><p>(Abstract) Skyrmionic textures are being extensively investigated due to the occurrence of novel topological magnetic phenomena and their promising applications in a new generation of spintronic devices that take advantage of the robust topological stability of their spin structures. The development of practical devices relies on a detailed understanding of how skyrmionic structures can be formed, transferred, detected and annihilated. In this work, our considerations go beyond static skyrmions and theoretically show that the formation/annihilation of both skyrmions and antiskyrmions is enabled by the transient creation and propagation of topological singularities (magnetic monopole-like Bloch points). Critically, during the winding/unwinding of skyrmionic textures, our results predict that the Bloch-point propagation will give rise to an emergent electric field in a terahertz frequency range and with substantial amplitude. We also demonstrate ways for controlling Bloch-point dynamics, which directly enable the tuneability on both frequency and amplitude of this signal. Our studies provide a concept of directly exploiting topological singularities for terahertz skyrmion-based electronic devices.</p>
+<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><blockquote>
+<p><strong>Y. Li</strong>, L. Pierobon, M. Charilaou, H.-B. Braun, N. R. Walet, J. F. Löffler, J. Miles, C. Moutafis<br>Tuneable terahertz oscillation arising from Bloch-point dynamics in chiral magnets. <strong><em>arXiv</em></strong> <a href=""><code>Link preparing...</code></a></p>
+</blockquote>]]></content>
+      <tags>
+        <tag>skyrmion</tag>
+        <tag>Bloch point</tag>
+        <tag>antiskyrmion</tag>
+        <tag>emergent electromagnetic field</tag>
+        <tag>terahertz</tag>
+        <tag>chiral magnets</tag>
+        <tag>2019</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>HMM 2019 @ HERAKLION, CRETE</title>
     <url>/20190524_Conference-HMM2019.html</url>
     <content><![CDATA[<img style="margin: auto;" src="/images/20190524_Conference-HMM2019.jpg">
@@ -10,9 +27,9 @@
 ]]></content>
       <tags>
         <tag>skyrmion</tag>
+        <tag>2019</tag>
         <tag>HMM</tag>
         <tag>academic activity</tag>
-        <tag>2019</tag>
       </tags>
   </entry>
   <entry>
@@ -26,8 +43,8 @@
 </blockquote>]]></content>
       <tags>
         <tag>skyrmion</tag>
-        <tag>skyrmion lattice</tag>
         <tag>antiskyrmion</tag>
+        <tag>skyrmion lattice</tag>
         <tag>field-induced transition</tag>
         <tag>defects</tag>
         <tag>2018</tag>
@@ -44,10 +61,10 @@
 </blockquote>]]></content>
       <tags>
         <tag>resistive random access memory (RRAM)</tag>
-        <tag>Monte Carlo</tag>
         <tag>resistive switching</tag>
         <tag>conductive filament</tag>
         <tag>2017</tag>
+        <tag>Monte Carlo</tag>
       </tags>
   </entry>
   <entry>
@@ -63,9 +80,9 @@
         <tag>resistive random access memory (RRAM)</tag>
         <tag>resistive switching</tag>
         <tag>conductive filament</tag>
-        <tag>2017</tag>
         <tag>two‐dimensional materials</tag>
         <tag>performance improvement</tag>
+        <tag>2017</tag>
       </tags>
   </entry>
 </search>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yu-li.me/"/>
-  <updated>2019-11-27T23:24:59.031Z</updated>
+  <updated>2019-11-29T22:05:12.110Z</updated>
   <id>https://yu-li.me/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>THz-oscillating electric signal from Bloch point dynamics</title>
+    <link href="https://yu-li.me/20191128_THz-Bloch-point-dynamics.html"/>
+    <id>https://yu-li.me/20191128_THz-Bloch-point-dynamics.html</id>
+    <published>2019-11-28T00:00:00.000Z</published>
+    <updated>2019-11-29T22:05:12.110Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="Tuneable-terahertz-oscillation-arising-from-Bloch-point-dynamics-in-chiral-magnets"><a href="#Tuneable-terahertz-oscillation-arising-from-Bloch-point-dynamics-in-chiral-magnets" class="headerlink" title="Tuneable terahertz oscillation arising from Bloch-point dynamics in chiral magnets"></a>Tuneable terahertz oscillation arising from Bloch-point dynamics in chiral magnets</h1><p>(Abstract) Skyrmionic textures are being extensively investigated due to the occurrence of novel topological magnetic phenomena and their promising applications in a new generation of spintronic devices that take advantage of the robust topological stability of their spin structures. The development of practical devices relies on a detailed understanding of how skyrmionic structures can be formed, transferred, detected and annihilated. In this work, our considerations go beyond static skyrmions and theoretically show that the formation/annihilation of both skyrmions and antiskyrmions is enabled by the transient creation and propagation of topological singularities (magnetic monopole-like Bloch points). Critically, during the winding/unwinding of skyrmionic textures, our results predict that the Bloch-point propagation will give rise to an emergent electric field in a terahertz frequency range and with substantial amplitude. We also demonstrate ways for controlling Bloch-point dynamics, which directly enable the tuneability on both frequency and amplitude of this signal. Our studies provide a concept of directly exploiting topological singularities for terahertz skyrmion-based electronic devices.</p><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><blockquote><p><strong>Y. Li</strong>, L. Pierobon, M. Charilaou, H.-B. Braun, N. R. Walet, J. F. Löffler, J. Miles, C. Moutafis<br>Tuneable terahertz oscillation arising from Bloch-point dynamics in chiral magnets. <strong><em>arXiv</em></strong> <a href=""><code>Link preparing...</code></a></p></blockquote>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;(Abstract) Skyrmionic textures are being extensively investigated, due to the occurrence of novel topological magnetic phenomena and their promising applications in a new generation of spintronic devices. In this work, our considerations go beyond static skyrmions and …&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;skyrmion&lt;/code&gt; &lt;code&gt;antiskyrmion&lt;/code&gt; &lt;code&gt;Bloch point&lt;/code&gt; &lt;code&gt;emergent electromagnetic field&lt;/code&gt; &lt;code&gt;terahertz&lt;/code&gt; &lt;code&gt;chiral magnets&lt;/code&gt;&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+      <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
+    
+      <category term="Bloch point" scheme="https://yu-li.me/tags/Bloch-point/"/>
+    
+      <category term="antiskyrmion" scheme="https://yu-li.me/tags/antiskyrmion/"/>
+    
+      <category term="emergent electromagnetic field" scheme="https://yu-li.me/tags/emergent-electromagnetic-field/"/>
+    
+      <category term="terahertz" scheme="https://yu-li.me/tags/terahertz/"/>
+    
+      <category term="chiral magnets" scheme="https://yu-li.me/tags/chiral-magnets/"/>
+    
+      <category term="2019" scheme="https://yu-li.me/tags/2019/"/>
+    
+  </entry>
   
   <entry>
     <title>HMM 2019 @ HERAKLION, CRETE</title>
@@ -40,11 +74,11 @@
     
       <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
     
+      <category term="2019" scheme="https://yu-li.me/tags/2019/"/>
+    
       <category term="HMM" scheme="https://yu-li.me/tags/HMM/"/>
     
       <category term="academic activity" scheme="https://yu-li.me/tags/academic-activity/"/>
-    
-      <category term="2019" scheme="https://yu-li.me/tags/2019/"/>
     
   </entry>
   
@@ -70,9 +104,9 @@
     
       <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
     
-      <category term="skyrmion lattice" scheme="https://yu-li.me/tags/skyrmion-lattice/"/>
-    
       <category term="antiskyrmion" scheme="https://yu-li.me/tags/antiskyrmion/"/>
+    
+      <category term="skyrmion lattice" scheme="https://yu-li.me/tags/skyrmion-lattice/"/>
     
       <category term="field-induced transition" scheme="https://yu-li.me/tags/field-induced-transition/"/>
     
@@ -104,13 +138,13 @@
     
       <category term="resistive random access memory (RRAM)" scheme="https://yu-li.me/tags/resistive-random-access-memory-RRAM/"/>
     
-      <category term="Monte Carlo" scheme="https://yu-li.me/tags/Monte-Carlo/"/>
-    
       <category term="resistive switching" scheme="https://yu-li.me/tags/resistive-switching/"/>
     
       <category term="conductive filament" scheme="https://yu-li.me/tags/conductive-filament/"/>
     
       <category term="2017" scheme="https://yu-li.me/tags/2017/"/>
+    
+      <category term="Monte Carlo" scheme="https://yu-li.me/tags/Monte-Carlo/"/>
     
   </entry>
   
@@ -140,11 +174,11 @@
     
       <category term="conductive filament" scheme="https://yu-li.me/tags/conductive-filament/"/>
     
-      <category term="2017" scheme="https://yu-li.me/tags/2017/"/>
-    
       <category term="two‐dimensional materials" scheme="https://yu-li.me/tags/two%E2%80%90dimensional-materials/"/>
     
       <category term="performance improvement" scheme="https://yu-li.me/tags/performance-improvement/"/>
+    
+      <category term="2017" scheme="https://yu-li.me/tags/2017/"/>
     
   </entry>
   
