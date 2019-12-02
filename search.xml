@@ -1,88 +1,148 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>THz-oscillating electric signal from Bloch point dynamics</title>
-    <url>/20191128_THz-Bloch-point-dynamics.html</url>
-    <content><![CDATA[<h1 id="Tuneable-terahertz-oscillation-arising-from-Bloch-point-dynamics-in-chiral-magnets"><a href="#Tuneable-terahertz-oscillation-arising-from-Bloch-point-dynamics-in-chiral-magnets" class="headerlink" title="Tuneable terahertz oscillation arising from Bloch-point dynamics in chiral magnets"></a>Tuneable terahertz oscillation arising from Bloch-point dynamics in chiral magnets</h1><p>(Abstract) Skyrmionic textures are being extensively investigated due to the occurrence of novel topological magnetic phenomena and their promising applications in a new generation of spintronic devices that take advantage of the robust topological stability of their spin structures. The development of practical devices relies on a detailed understanding of how skyrmionic structures can be formed, transferred, detected and annihilated. In this work, our considerations go beyond static skyrmions and theoretically show that the formation/annihilation of both skyrmions and antiskyrmions is enabled by the transient creation and propagation of topological singularities (magnetic monopole-like Bloch points). Critically, during the winding/unwinding of skyrmionic textures, our results predict that the Bloch-point propagation will give rise to an emergent electric field in a terahertz frequency range and with substantial amplitude. We also demonstrate ways for controlling Bloch-point dynamics, which directly enable the tuneability on both frequency and amplitude of this signal. Our studies provide a concept of directly exploiting topological singularities for terahertz skyrmion-based electronic devices.</p>
-<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><blockquote>
-<p><strong>Y. Li</strong>, L. Pierobon, M. Charilaou, H.-B. Braun, N. R. Walet, J. F. Löffler, J. Miles, C. Moutafis<br>Tuneable terahertz oscillation arising from Bloch-point dynamics in chiral magnets. <strong><em>arXiv</em></strong> <a href=""><code>Link preparing...</code></a></p>
-</blockquote>]]></content>
-      <tags>
-        <tag>skyrmion</tag>
-        <tag>Bloch point</tag>
-        <tag>antiskyrmion</tag>
-        <tag>emergent electromagnetic field</tag>
-        <tag>terahertz</tag>
-        <tag>chiral magnets</tag>
-        <tag>2019</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>HMM 2019 @ HERAKLION, CRETE</title>
-    <url>/20190524_Conference-HMM2019.html</url>
-    <content><![CDATA[<img style="margin: auto;" src="/images/20190524_Conference-HMM2019.jpg">
-
-<p>Really excited to participate the 12th International Symposium on Hysteresis Modeling and Micromagnetics (<a href="http://users.math.uoc.gr/~komineas/HMM2019/index.html" target="_blank" rel="noopener">HMM2019</a>) in Crete, Greece from 19th-22nd of May, 2019. I presented a talk in the first session “Magnetic Solitons I”, with the title “Controllable THz Bloch-point propagation in the switching process of magnetic skyrmions“. I also presented a poster from our recently published work <a href="/20181112_Switching-of-ideal-defective-skyrmion-lattices.html"><strong><em>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films</em></strong></a>.</p>
-<p><code>skyrmion</code> <code>HMM</code> <code>academic activity</code></p>
-]]></content>
-      <tags>
-        <tag>skyrmion</tag>
-        <tag>2019</tag>
-        <tag>HMM</tag>
-        <tag>academic activity</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Field-induced magnetic switching of ideal/defective skyrmion lattices</title>
-    <url>/20181112_Switching-of-ideal-defective-skyrmion-lattices.html</url>
-    <content><![CDATA[<h1 id="Collective-antiskyrmion-mediated-phase-transition-and-defect-induced-melting-in-chiral-magnetic-films"><a href="#Collective-antiskyrmion-mediated-phase-transition-and-defect-induced-melting-in-chiral-magnetic-films" class="headerlink" title="Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films"></a>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films</h1><img style="margin: auto;" src="/images/20181112_Switching-of-ideal-defective-skyrmion-lattices.png">
-
-<p>(Abstract) Magnetic phase transitions are a manifestation of competing interactions whose behavior is critically modified by defects and becomes even more complex when topological constraints are involved. In particular, the investigation of skyrmions and skyrmion lattices offers insight into fundamental processes of topological-charge creation and annihilation upon changing the magnetic state. Nonetheless, the exact physical mechanisms behind these phase transitions remain unresolved. Here, we show numerically that it is possible to collectively reverse the polarity of a skyrmion lattice in a field-induced first-order phase transition via a transient antiskyrmion-lattice state. We thus propose a new type of phase transformation where a skyrmion lattice inverts to another one due to topological constraints. In the presence of even a single defect, the process becomes a second-order phase transition with gradual topological-charge melting. This radical change in the system’s behavior from a first-order to a second-order phase transition demonstrates that defects in real materials could prevent us from observing collective topological phenomena. We have systematically compared ultra-thin films with isotropic and anisotropic Dzyaloshinskii-Moriya interactions (DMIs), and demonstrated a nearly identical behavior for such technologically relevant interfacial systems.</p>
-<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><blockquote>
-<p>L. Pierobon, C. Moutafis, <strong>Y. Li</strong>, J. F. Löffler, and M. Charilaou<br>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films. <strong><em>Scientific Reports</em></strong> 8, 16675 <a href="https://www.nature.com/articles/s41598-018-34526-0" target="_blank" rel="noopener"><code>Link</code></a> <a href="https://arxiv.org/abs/1805.10230" target="_blank" rel="noopener"><code>Arxiv</code></a></p>
-</blockquote>]]></content>
-      <tags>
-        <tag>skyrmion</tag>
-        <tag>antiskyrmion</tag>
-        <tag>skyrmion lattice</tag>
-        <tag>field-induced transition</tag>
-        <tag>defects</tag>
-        <tag>2018</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A Monte Carlo model for RRAM switching</title>
-    <url>/20170911_A-Monte-Carlo-model-for-RRAM-switching.html</url>
-    <content><![CDATA[<h1 id="Investigation-on-the-Conductive-Filament-Growth-Dynamics-in-Resistive-Switching-Memory-via-a-Universal-Monte-Carlo-Simulator"><a href="#Investigation-on-the-Conductive-Filament-Growth-Dynamics-in-Resistive-Switching-Memory-via-a-Universal-Monte-Carlo-Simulator" class="headerlink" title="Investigation on the Conductive Filament Growth Dynamics in Resistive Switching Memory via a Universal Monte Carlo Simulator"></a>Investigation on the Conductive Filament Growth Dynamics in Resistive Switching Memory via a Universal Monte Carlo Simulator</h1><img style="margin: auto;" src="/images/20170911_RRAM_MonteCarlo.png">
-(Abstract) In resistive random access memories, modeling conductive filament growing dynamics is important to understand the switching mechanism and variability. In this paper, a universal Monte Carlo simulator is developed based on a cell switching model and a tunneling-based transport model. Driven by external electric field, the growing process of the nanoscale filament occurring in the gap region is actually dominated by cells’ conductive/insulating switching, modeled through a phenomenological physics-based probability function. The electric transport through the partially formed CF is considered as current tunneling in the framework of the Quantum Point Contact model, and the potential barrier is modulated during cells’ evolution. To demonstrate the validity and universality of our simulator, various operation schemes are simulated, with the simulated I − V characteristics well explaining experimental observations. Furthermore, the statistical analyses of simulation results in terms of Weibull distribution and conductance evolution also nicely track previous experimental results. Representing a simulation scale that links atomic-scale simulations to compact modeling, our simulator has the advantage of being much faster comparing with other atomic-scale models. Meanwhile, our simulator shows good universality since it can be applied to various operation signals, and also to different electrodes and dielectric layers dominated by different switching mechanisms.
-
-<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><blockquote>
-<p><strong>Y. Li</strong>, M. Zhang, S. Long, J. Teng, Q. Liu, H. Lv, E. Miranda, J. Suñé, and M. Liu<br>Investigation on the conductive filament growth dynamics in resistive switching memory via a universal Monte Carlo simulator.  <strong><em>Scientific Reports</em></strong> 7, 11204 <a href="https://www.nature.com/articles/s41598-017-11165-5#Sec16" target="_blank" rel="noopener"><code>Link</code></a></p>
-</blockquote>]]></content>
-      <tags>
-        <tag>resistive random access memory (RRAM)</tag>
-        <tag>resistive switching</tag>
-        <tag>conductive filament</tag>
-        <tag>2017</tag>
-        <tag>Monte Carlo</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>A review of RRAM</title>
-    <url>/20170418_A-review-of-RRAM.html</url>
-    <content><![CDATA[<h1 id="Resistive-Switching-Performance-Improvement-via-Modulating-Nanoscale-Conductive-Filament-Involving-the-Application-of-Two‐Dimensional-Layered-Materials"><a href="#Resistive-Switching-Performance-Improvement-via-Modulating-Nanoscale-Conductive-Filament-Involving-the-Application-of-Two‐Dimensional-Layered-Materials" class="headerlink" title="Resistive Switching Performance Improvement via Modulating Nanoscale Conductive Filament, Involving the Application of Two‐Dimensional Layered Materials"></a>Resistive Switching Performance Improvement via Modulating Nanoscale Conductive Filament, Involving the Application of Two‐Dimensional Layered Materials</h1><img style="margin: auto;" src="/images/20170418_A-review-of-RRAM.png">
-
-<p>(Abstract) Reversible chemical and structural changes induced by ionic motion and reaction in response to electrical stimuli leads to resistive switching effects in metal-insulator-metal structures. Filamentary switching based on the formation and rupture of nanoscale conductive filament has been applied in non-volatile memory and volatile selector devices with low power consumption and fast switching speeds. Before the mass production of resistive switching devices, great efforts are still required to enable stable and reliable switching performances. The conductive filament, a bridge of microscopic metal-insulator-metal structure and macroscopic resistance states, plays an irreplaceable part in resistive switching behavior, as unreliable performance often originates from unstable filament behavior. In this Review, departing from the filamentary switching mechanism and the existing issues, recent advances of the switching performance improvement through the conductive filament modulation are discussed, in the sequence of material modulation, device structure design and switching operation scheme optimization. In particular, two-dimensional (2D) nanomaterials with excellent properties including and beyond graphene, are discussed with emphasis on performance improvement by their active roles as the switching layer, insertion layer, thin electrode, patterned electrode, and edge electrode, etc.</p>
-<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><blockquote>
-<p><strong>Y. Li</strong>, S. Long, Q. Liu, H. Lv, and M. Liu<br>Resistive Switching Performance Improvement via Modulating Nanoscale Conductive Filament, Involving the Application of Two‐Dimensional Layered Materials. <strong><em>Small</em></strong> 13, 1604306 - Selected as <a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.201770187" target="_blank" rel="noopener">front cover</a> article <a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.201604306" target="_blank" rel="noopener"><code>Link</code></a></p>
-</blockquote>]]></content>
-      <tags>
-        <tag>resistive random access memory (RRAM)</tag>
-        <tag>resistive switching</tag>
-        <tag>conductive filament</tag>
-        <tag>two‐dimensional materials</tag>
-        <tag>performance improvement</tag>
-        <tag>2017</tag>
-      </tags>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>THz-oscillating electric signal from Bloch point dynamics</title>
+      <link href="/20191202_THz-Bloch-point-dynamics.html"/>
+      <url>/20191202_THz-Bloch-point-dynamics.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="Tuneable-terahertz-oscillation-arising-from-Bloch-point-dynamics-in-chiral-magnets"><a href="#Tuneable-terahertz-oscillation-arising-from-Bloch-point-dynamics-in-chiral-magnets" class="headerlink" title="Tuneable terahertz oscillation arising from Bloch-point dynamics in chiral magnets"></a>Tuneable terahertz oscillation arising from Bloch-point dynamics in chiral magnets</h1><p>(Abstract) Skyrmionic textures are being extensively investigated due to the occurrence of novel topological magnetic phenomena and their promising applications in a new generation of spintronic devices that take advantage of the robust topological stability of their spin structures. The development of practical devices relies on a detailed understanding of how skyrmionic structures can be formed, transferred, detected and annihilated. In this work, our considerations go beyond static skyrmions and theoretically show that the formation/annihilation of both skyrmions and antiskyrmions is enabled by the transient creation and propagation of topological singularities (magnetic monopole-like Bloch points). Critically, during the winding/unwinding of skyrmionic textures, our results predict that the Bloch-point propagation will give rise to an emergent electric field in a terahertz frequency range and with substantial amplitude. We also demonstrate ways for controlling Bloch-point dynamics, which directly enable the tuneability on both frequency and amplitude of this signal. Our studies provide a concept of directly exploiting topological singularities for terahertz skyrmion-based electronic devices.</p><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><blockquote><p><strong>Y. Li</strong>, L. Pierobon, M. Charilaou, H.-B. Braun, N. R. Walet, J. F. Löffler, J. Miles, C. Moutafis<br>Tuneable terahertz oscillation arising from Bloch-point dynamics in chiral magnets. <strong><em>arXiv</em></strong> <a href="https://arxiv.org/abs/1911.12781" target="_blank" rel="noopener"><code>Link</code></a></p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> skyrmion </tag>
+            
+            <tag> antiskyrmion </tag>
+            
+            <tag> Bloch point </tag>
+            
+            <tag> emergent electromagnetic field </tag>
+            
+            <tag> terahertz </tag>
+            
+            <tag> chiral magnets </tag>
+            
+            <tag> 2019 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>HMM 2019 @ HERAKLION, CRETE</title>
+      <link href="/20190524_Conference-HMM2019.html"/>
+      <url>/20190524_Conference-HMM2019.html</url>
+      
+        <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20190524_Conference-HMM2019.jpg"><p>Really excited to participate the 12th International Symposium on Hysteresis Modeling and Micromagnetics (<a href="http://users.math.uoc.gr/~komineas/HMM2019/index.html" target="_blank" rel="noopener">HMM2019</a>) in Crete, Greece from 19th-22nd of May, 2019. I presented a talk in the first session “Magnetic Solitons I”, with the title “Controllable THz Bloch-point propagation in the switching process of magnetic skyrmions“. I also presented a poster from our recently published work <a href="/20181112_Switching-of-ideal-defective-skyrmion-lattices.html"><strong><em>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films</em></strong></a>.</p><p><code>skyrmion</code> <code>HMM</code> <code>academic activity</code></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> skyrmion </tag>
+            
+            <tag> 2019 </tag>
+            
+            <tag> HMM </tag>
+            
+            <tag> academic activity </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Field-induced magnetic switching of ideal/defective skyrmion lattices</title>
+      <link href="/20181112_Switching-of-ideal-defective-skyrmion-lattices.html"/>
+      <url>/20181112_Switching-of-ideal-defective-skyrmion-lattices.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="Collective-antiskyrmion-mediated-phase-transition-and-defect-induced-melting-in-chiral-magnetic-films"><a href="#Collective-antiskyrmion-mediated-phase-transition-and-defect-induced-melting-in-chiral-magnetic-films" class="headerlink" title="Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films"></a>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films</h1><img style="margin: auto;" src="/images/20181112_Switching-of-ideal-defective-skyrmion-lattices.png"><p>(Abstract) Magnetic phase transitions are a manifestation of competing interactions whose behavior is critically modified by defects and becomes even more complex when topological constraints are involved. In particular, the investigation of skyrmions and skyrmion lattices offers insight into fundamental processes of topological-charge creation and annihilation upon changing the magnetic state. Nonetheless, the exact physical mechanisms behind these phase transitions remain unresolved. Here, we show numerically that it is possible to collectively reverse the polarity of a skyrmion lattice in a field-induced first-order phase transition via a transient antiskyrmion-lattice state. We thus propose a new type of phase transformation where a skyrmion lattice inverts to another one due to topological constraints. In the presence of even a single defect, the process becomes a second-order phase transition with gradual topological-charge melting. This radical change in the system’s behavior from a first-order to a second-order phase transition demonstrates that defects in real materials could prevent us from observing collective topological phenomena. We have systematically compared ultra-thin films with isotropic and anisotropic Dzyaloshinskii-Moriya interactions (DMIs), and demonstrated a nearly identical behavior for such technologically relevant interfacial systems.</p><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><blockquote><p>L. Pierobon, C. Moutafis, <strong>Y. Li</strong>, J. F. Löffler, and M. Charilaou<br>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films. <strong><em>Scientific Reports</em></strong> 8, 16675 <a href="https://www.nature.com/articles/s41598-018-34526-0" target="_blank" rel="noopener"><code>Link</code></a> <a href="https://arxiv.org/abs/1805.10230" target="_blank" rel="noopener"><code>Arxiv</code></a></p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> skyrmion </tag>
+            
+            <tag> skyrmion lattice </tag>
+            
+            <tag> antiskyrmion </tag>
+            
+            <tag> field-induced transition </tag>
+            
+            <tag> defects </tag>
+            
+            <tag> 2018 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>A Monte Carlo model for RRAM switching</title>
+      <link href="/20170911_A-Monte-Carlo-model-for-RRAM-switching.html"/>
+      <url>/20170911_A-Monte-Carlo-model-for-RRAM-switching.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="Investigation-on-the-Conductive-Filament-Growth-Dynamics-in-Resistive-Switching-Memory-via-a-Universal-Monte-Carlo-Simulator"><a href="#Investigation-on-the-Conductive-Filament-Growth-Dynamics-in-Resistive-Switching-Memory-via-a-Universal-Monte-Carlo-Simulator" class="headerlink" title="Investigation on the Conductive Filament Growth Dynamics in Resistive Switching Memory via a Universal Monte Carlo Simulator"></a>Investigation on the Conductive Filament Growth Dynamics in Resistive Switching Memory via a Universal Monte Carlo Simulator</h1><img style="margin: auto;" src="/images/20170911_RRAM_MonteCarlo.png">(Abstract) In resistive random access memories, modeling conductive filament growing dynamics is important to understand the switching mechanism and variability. In this paper, a universal Monte Carlo simulator is developed based on a cell switching model and a tunneling-based transport model. Driven by external electric field, the growing process of the nanoscale filament occurring in the gap region is actually dominated by cells’ conductive/insulating switching, modeled through a phenomenological physics-based probability function. The electric transport through the partially formed CF is considered as current tunneling in the framework of the Quantum Point Contact model, and the potential barrier is modulated during cells’ evolution. To demonstrate the validity and universality of our simulator, various operation schemes are simulated, with the simulated I − V characteristics well explaining experimental observations. Furthermore, the statistical analyses of simulation results in terms of Weibull distribution and conductance evolution also nicely track previous experimental results. Representing a simulation scale that links atomic-scale simulations to compact modeling, our simulator has the advantage of being much faster comparing with other atomic-scale models. Meanwhile, our simulator shows good universality since it can be applied to various operation signals, and also to different electrodes and dielectric layers dominated by different switching mechanisms.<h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><blockquote><p><strong>Y. Li</strong>, M. Zhang, S. Long, J. Teng, Q. Liu, H. Lv, E. Miranda, J. Suñé, and M. Liu<br>Investigation on the conductive filament growth dynamics in resistive switching memory via a universal Monte Carlo simulator.  <strong><em>Scientific Reports</em></strong> 7, 11204 <a href="https://www.nature.com/articles/s41598-017-11165-5#Sec16" target="_blank" rel="noopener"><code>Link</code></a></p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> resistive random access memory (RRAM) </tag>
+            
+            <tag> resistive switching </tag>
+            
+            <tag> conductive filament </tag>
+            
+            <tag> 2017 </tag>
+            
+            <tag> Monte Carlo </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>A review of RRAM</title>
+      <link href="/20170418_A-review-of-RRAM.html"/>
+      <url>/20170418_A-review-of-RRAM.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="Resistive-Switching-Performance-Improvement-via-Modulating-Nanoscale-Conductive-Filament-Involving-the-Application-of-Two‐Dimensional-Layered-Materials"><a href="#Resistive-Switching-Performance-Improvement-via-Modulating-Nanoscale-Conductive-Filament-Involving-the-Application-of-Two‐Dimensional-Layered-Materials" class="headerlink" title="Resistive Switching Performance Improvement via Modulating Nanoscale Conductive Filament, Involving the Application of Two‐Dimensional Layered Materials"></a>Resistive Switching Performance Improvement via Modulating Nanoscale Conductive Filament, Involving the Application of Two‐Dimensional Layered Materials</h1><img style="margin: auto;" src="/images/20170418_A-review-of-RRAM.png"><p>(Abstract) Reversible chemical and structural changes induced by ionic motion and reaction in response to electrical stimuli leads to resistive switching effects in metal-insulator-metal structures. Filamentary switching based on the formation and rupture of nanoscale conductive filament has been applied in non-volatile memory and volatile selector devices with low power consumption and fast switching speeds. Before the mass production of resistive switching devices, great efforts are still required to enable stable and reliable switching performances. The conductive filament, a bridge of microscopic metal-insulator-metal structure and macroscopic resistance states, plays an irreplaceable part in resistive switching behavior, as unreliable performance often originates from unstable filament behavior. In this Review, departing from the filamentary switching mechanism and the existing issues, recent advances of the switching performance improvement through the conductive filament modulation are discussed, in the sequence of material modulation, device structure design and switching operation scheme optimization. In particular, two-dimensional (2D) nanomaterials with excellent properties including and beyond graphene, are discussed with emphasis on performance improvement by their active roles as the switching layer, insertion layer, thin electrode, patterned electrode, and edge electrode, etc.</p><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><blockquote><p><strong>Y. Li</strong>, S. Long, Q. Liu, H. Lv, and M. Liu<br>Resistive Switching Performance Improvement via Modulating Nanoscale Conductive Filament, Involving the Application of Two‐Dimensional Layered Materials. <strong><em>Small</em></strong> 13, 1604306 - Selected as <a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.201770187" target="_blank" rel="noopener">front cover</a> article <a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.201604306" target="_blank" rel="noopener"><code>Link</code></a></p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> resistive random access memory (RRAM) </tag>
+            
+            <tag> resistive switching </tag>
+            
+            <tag> conductive filament </tag>
+            
+            <tag> two‐dimensional materials </tag>
+            
+            <tag> performance improvement </tag>
+            
+            <tag> 2017 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
