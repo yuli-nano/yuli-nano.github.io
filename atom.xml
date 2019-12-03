@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yu-li.me/"/>
-  <updated>2019-12-02T12:30:01.126Z</updated>
+  <updated>2019-12-03T19:38:27.247Z</updated>
   <id>https://yu-li.me/</id>
   
   <author>
@@ -17,11 +17,43 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>„Skyrmions in Magnetic Materials“ seminar @ Bad Honnef, Germany</title>
+    <link href="https://yu-li.me/20191202_2_SkyrmionSeminar.html"/>
+    <id>https://yu-li.me/20191202_2_SkyrmionSeminar.html</id>
+    <published>2019-12-02T11:50:00.000Z</published>
+    <updated>2019-12-03T19:38:27.247Z</updated>
+    
+    <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20191202_2_SkyrmionSeminar.JPG"><p>I was really excited to attend the <a href="https://www.we-heraeus-stiftung.de/veranstaltungen/seminare/2019/skyrmions-in-magnetic-materials/" target="_blank" rel="noopener">British-German WE-Heraeus-Seminar</a> held in Physikzentrum Bad Honnef, Germany (1st-5th Dec., 2019). The topic this year is <em>‘Skyrmions in Magnetic Materials’</em>.</p><div style="text-align:center" markdown="1"><b>Background</b></div><blockquote class="blockquote-center"><p><em>Building on the long tradition of close collaborations of the scientific communities in the United Kingdom, France, Poland, and Germany, these Seminars aim to foster the exchange and scientific cooperation between research groups in these countries on a bi-national level as a means to promote the European spirit.</em></p></blockquote><p>I was also honored to present a poster, entitled <em>‘Tuneable Bloch-point dynamics during switching of skyrmions and antiskyrmions in chiral magnets’</em>, which is highly relevant to our <a href="/20191202_1_THz-Bloch-point-dynamics.html"><strong>recent work</strong></a>.</p><p><code>skyrmion</code> <code>British-German WE-Heraeus-Seminar</code> <code>academic activity</code></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img style=&quot;margin: auto;&quot; src=&quot;/images/20191202_2_SkyrmionSeminar.JPG&quot;&gt;
+
+&lt;p&gt;I was really excited to attend the &lt;a href=&quot;https://www.we-hera
+      
+    
+    </summary>
+    
+    
+    
+      <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
+    
+      <category term="2019" scheme="https://yu-li.me/tags/2019/"/>
+    
+      <category term="academic activity" scheme="https://yu-li.me/tags/academic-activity/"/>
+    
+      <category term="British-German WE-Heraeus-Seminar" scheme="https://yu-li.me/tags/British-German-WE-Heraeus-Seminar/"/>
+    
+  </entry>
+  
+  <entry>
     <title>THz-oscillating electric signal from Bloch point dynamics</title>
-    <link href="https://yu-li.me/20191202_THz-Bloch-point-dynamics.html"/>
-    <id>https://yu-li.me/20191202_THz-Bloch-point-dynamics.html</id>
+    <link href="https://yu-li.me/20191202_1_THz-Bloch-point-dynamics.html"/>
+    <id>https://yu-li.me/20191202_1_THz-Bloch-point-dynamics.html</id>
     <published>2019-12-01T23:00:00.000Z</published>
-    <updated>2019-12-02T12:30:01.126Z</updated>
+    <updated>2019-12-02T21:27:50.926Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Tuneable-terahertz-oscillation-arising-from-Bloch-point-dynamics-in-chiral-magnets"><a href="#Tuneable-terahertz-oscillation-arising-from-Bloch-point-dynamics-in-chiral-magnets" class="headerlink" title="Tuneable terahertz oscillation arising from Bloch-point dynamics in chiral magnets"></a>Tuneable terahertz oscillation arising from Bloch-point dynamics in chiral magnets</h1><p>(Abstract) Skyrmionic textures are being extensively investigated due to the occurrence of novel topological magnetic phenomena and their promising applications in a new generation of spintronic devices that take advantage of the robust topological stability of their spin structures. The development of practical devices relies on a detailed understanding of how skyrmionic structures can be formed, transferred, detected and annihilated. In this work, our considerations go beyond static skyrmions and theoretically show that the formation/annihilation of both skyrmions and antiskyrmions is enabled by the transient creation and propagation of topological singularities (magnetic monopole-like Bloch points). Critically, during the winding/unwinding of skyrmionic textures, our results predict that the Bloch-point propagation will give rise to an emergent electric field in a terahertz frequency range and with substantial amplitude. We also demonstrate ways for controlling Bloch-point dynamics, which directly enable the tuneability on both frequency and amplitude of this signal. Our studies provide a concept of directly exploiting topological singularities for terahertz skyrmion-based electronic devices.</p><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><blockquote><p><strong>Y. Li</strong>, L. Pierobon, M. Charilaou, H.-B. Braun, N. R. Walet, J. F. Löffler, J. Miles, C. Moutafis<br>Tuneable terahertz oscillation arising from Bloch-point dynamics in chiral magnets. <strong><em>arXiv</em></strong>:1911.12781 <a href="https://arxiv.org/abs/1911.12781" target="_blank" rel="noopener"><code>Link</code></a></p></blockquote>]]></content>
     
@@ -36,9 +68,9 @@
     
       <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
     
-      <category term="antiskyrmion" scheme="https://yu-li.me/tags/antiskyrmion/"/>
-    
       <category term="Bloch point" scheme="https://yu-li.me/tags/Bloch-point/"/>
+    
+      <category term="antiskyrmion" scheme="https://yu-li.me/tags/antiskyrmion/"/>
     
       <category term="emergent electromagnetic field" scheme="https://yu-li.me/tags/emergent-electromagnetic-field/"/>
     
@@ -55,9 +87,9 @@
     <link href="https://yu-li.me/20190524_Conference-HMM2019.html"/>
     <id>https://yu-li.me/20190524_Conference-HMM2019.html</id>
     <published>2019-05-23T22:00:00.000Z</published>
-    <updated>2019-11-27T23:24:59.031Z</updated>
+    <updated>2019-12-02T21:15:22.409Z</updated>
     
-    <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20190524_Conference-HMM2019.jpg"><p>Really excited to participate the 12th International Symposium on Hysteresis Modeling and Micromagnetics (<a href="http://users.math.uoc.gr/~komineas/HMM2019/index.html" target="_blank" rel="noopener">HMM2019</a>) in Crete, Greece from 19th-22nd of May, 2019. I presented a talk in the first session “Magnetic Solitons I”, with the title “Controllable THz Bloch-point propagation in the switching process of magnetic skyrmions“. I also presented a poster from our recently published work <a href="/20181112_Switching-of-ideal-defective-skyrmion-lattices.html"><strong><em>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films</em></strong></a>.</p><p><code>skyrmion</code> <code>HMM</code> <code>academic activity</code></p>]]></content>
+    <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20190524_Conference-HMM2019.jpg"><p>Really excited to participate the 12th International Symposium on Hysteresis Modeling and Micromagnetics (<a href="http://users.math.uoc.gr/~komineas/HMM2019/index.html" target="_blank" rel="noopener">HMM2019</a>) in Crete, Greece (19th-22nd May, 2019). I presented a talk in the first session “Magnetic Solitons I”, with the title “Controllable THz Bloch-point propagation in the switching process of magnetic skyrmions“. I also presented a poster from our recently published work <a href="/20181112_Switching-of-ideal-defective-skyrmion-lattices.html"><strong><em>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films</em></strong></a>.</p><p><code>skyrmion</code> <code>HMM</code> <code>academic activity</code></p>]]></content>
     
     <summary type="html">
     
@@ -83,11 +115,11 @@
   </entry>
   
   <entry>
-    <title>Field-induced magnetic switching of ideal/defective skyrmion lattices</title>
+    <title>Magnetic switching of ideal/defective skyrmion lattices</title>
     <link href="https://yu-li.me/20181112_Switching-of-ideal-defective-skyrmion-lattices.html"/>
     <id>https://yu-li.me/20181112_Switching-of-ideal-defective-skyrmion-lattices.html</id>
     <published>2018-11-11T23:00:00.000Z</published>
-    <updated>2019-11-27T22:58:00.704Z</updated>
+    <updated>2019-12-03T19:31:28.968Z</updated>
     
     <content type="html"><![CDATA[<h1 id="Collective-antiskyrmion-mediated-phase-transition-and-defect-induced-melting-in-chiral-magnetic-films"><a href="#Collective-antiskyrmion-mediated-phase-transition-and-defect-induced-melting-in-chiral-magnetic-films" class="headerlink" title="Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films"></a>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films</h1><img style="margin: auto;" src="/images/20181112_Switching-of-ideal-defective-skyrmion-lattices.png"><p>(Abstract) Magnetic phase transitions are a manifestation of competing interactions whose behavior is critically modified by defects and becomes even more complex when topological constraints are involved. In particular, the investigation of skyrmions and skyrmion lattices offers insight into fundamental processes of topological-charge creation and annihilation upon changing the magnetic state. Nonetheless, the exact physical mechanisms behind these phase transitions remain unresolved. Here, we show numerically that it is possible to collectively reverse the polarity of a skyrmion lattice in a field-induced first-order phase transition via a transient antiskyrmion-lattice state. We thus propose a new type of phase transformation where a skyrmion lattice inverts to another one due to topological constraints. In the presence of even a single defect, the process becomes a second-order phase transition with gradual topological-charge melting. This radical change in the system’s behavior from a first-order to a second-order phase transition demonstrates that defects in real materials could prevent us from observing collective topological phenomena. We have systematically compared ultra-thin films with isotropic and anisotropic Dzyaloshinskii-Moriya interactions (DMIs), and demonstrated a nearly identical behavior for such technologically relevant interfacial systems.</p><h2 id="Reference"><a href="#Reference" class="headerlink" title="Reference"></a>Reference</h2><blockquote><p>L. Pierobon, C. Moutafis, <strong>Y. Li</strong>, J. F. Löffler, and M. Charilaou<br>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films. <strong><em>Scientific Reports</em></strong> 8, 16675 <a href="https://www.nature.com/articles/s41598-018-34526-0" target="_blank" rel="noopener"><code>Link</code></a> <a href="https://arxiv.org/abs/1805.10230" target="_blank" rel="noopener"><code>Arxiv</code></a></p></blockquote>]]></content>
     
@@ -104,9 +136,9 @@
     
       <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
     
-      <category term="skyrmion lattice" scheme="https://yu-li.me/tags/skyrmion-lattice/"/>
-    
       <category term="antiskyrmion" scheme="https://yu-li.me/tags/antiskyrmion/"/>
+    
+      <category term="skyrmion lattice" scheme="https://yu-li.me/tags/skyrmion-lattice/"/>
     
       <category term="field-induced transition" scheme="https://yu-li.me/tags/field-induced-transition/"/>
     
