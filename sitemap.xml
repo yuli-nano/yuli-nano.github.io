@@ -2,9 +2,51 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yu-li.me/Publications/index.html</loc>
+    
+    <lastmod>2019-12-14T21:35:52.930Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yu-li.me/20191202_THz-Bloch-point-dynamics.html</loc>
+    
+    <lastmod>2019-12-14T21:35:34.030Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yu-li.me/20170418_A-review-of-RRAM.html</loc>
+    
+    <lastmod>2019-12-14T21:19:01.903Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yu-li.me/20181112_Switching-of-ideal-defective-skyrmion-lattices.html</loc>
+    
+    <lastmod>2019-12-14T21:07:55.757Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yu-li.me/20190524_Conference-HMM2019.html</loc>
+    
+    <lastmod>2019-12-14T21:07:40.907Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yu-li.me/20191205_SkyrmionSeminar.html</loc>
     
-    <lastmod>2019-12-11T23:22:10.156Z</lastmod>
+    <lastmod>2019-12-14T21:02:42.827Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yu-li.me/20170911_A-Monte-Carlo-model-for-RRAM-switching.html</loc>
+    
+    <lastmod>2019-12-14T20:55:20.085Z</lastmod>
     
   </url>
   
@@ -23,51 +65,9 @@
   </url>
   
   <url>
-    <loc>https://yu-li.me/20190524_Conference-HMM2019.html</loc>
-    
-    <lastmod>2019-12-03T19:55:58.901Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yu-li.me/20181112_Switching-of-ideal-defective-skyrmion-lattices.html</loc>
-    
-    <lastmod>2019-12-03T19:31:28.968Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://yu-li.me/Research/index.html</loc>
     
     <lastmod>2019-12-02T21:28:26.148Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yu-li.me/20191202_1_THz-Bloch-point-dynamics.html</loc>
-    
-    <lastmod>2019-12-02T21:27:50.926Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yu-li.me/Publications/index.html</loc>
-    
-    <lastmod>2019-12-02T12:30:25.729Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yu-li.me/20170911_A-Monte-Carlo-model-for-RRAM-switching.html</loc>
-    
-    <lastmod>2019-11-28T23:30:47.906Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yu-li.me/20170418_A-review-of-RRAM.html</loc>
-    
-    <lastmod>2019-11-27T22:57:55.843Z</lastmod>
     
   </url>
   
