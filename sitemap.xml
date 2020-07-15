@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yu-li.me/About/index.html</loc>
+    
+    <lastmod>2020-07-15T14:15:57.837Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yu-li.me/20200615_New_skyrmionic_synapse_accepted.html</loc>
     
-    <lastmod>2020-07-15T12:01:43.370Z</lastmod>
+    <lastmod>2020-07-15T13:30:35.439Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://yu-li.me/Publications/index.html</loc>
     
-    <lastmod>2020-07-15T11:58:51.950Z</lastmod>
+    <lastmod>2020-07-15T13:29:22.520Z</lastmod>
     
   </url>
   
@@ -19,13 +26,6 @@
     <loc>https://yu-li.me/20200701_THz-Bloch-point-dynamics-PRRes.html</loc>
     
     <lastmod>2020-07-13T03:13:40.789Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yu-li.me/About/index.html</loc>
-    
-    <lastmod>2020-07-10T12:20:59.521Z</lastmod>
     
   </url>
   
