@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yu-li.me/"/>
-  <updated>2020-07-13T03:13:40.789Z</updated>
+  <updated>2020-07-16T12:12:11.575Z</updated>
   <id>https://yu-li.me/</id>
   
   <author>
@@ -21,27 +21,33 @@
     <link href="https://yu-li.me/20200701_THz-Bloch-point-dynamics-PRRes.html"/>
     <id>https://yu-li.me/20200701_THz-Bloch-point-dynamics-PRRes.html</id>
     <published>2020-06-30T16:00:00.000Z</published>
-    <updated>2020-07-13T03:13:40.789Z</updated>
+    <updated>2020-07-16T12:12:11.575Z</updated>
     
-    <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20200701_BlochPointPaper.jpg" width="50%"><p>Our recent theoretical paper on “Tunable terahertz oscillation arising from Bloch-point dynamics in chiral magnets” has now been published at <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033006" target="_blank" rel="noopener">Physical Review Research</a>. This work arose from a collaboration between the University of Manchester(<a href="https://nest.cs.manchester.ac.uk/" target="_blank" rel="noopener">NEST group</a>, <a href="https://skyrmionics.org/" target="_blank" rel="noopener">Skyrmionics group</a>, and <a href="https://theory.physics.manchester.ac.uk/" target="_blank" rel="noopener">Theoretical physics group</a>) with the ETH Zürich (<a href="https://metphys.mat.ethz.ch/" target="_blank" rel="noopener">Metal Physics and Technology group</a>). This work reveals that the formation/annihilation of skyrmions will give rise to an emergent electric field with the frequency in the THz regime. The electric signal is due to the ultra-fast Bloch-point propagation, and both the amplitude and frequency can be tuned by the manipulation of Bloch-point dynamics. Our studies provide a concept of directly exploiting topological singularities which may be relevant for THz skyrmion-based electronic devices.</p><p>(Abstract) Skyrmionic textures are being extensively investigated due to the occurrence of novel topological magnetic phenomena, and their promising applications in a new generation of spintronic devices take advantage of the robust topological stability of their spin structures. The development of practical devices relies on a detailed understanding of how skyrmionic structures can be formed, transferred, detected, and annihilated. In this work our considerations go beyond static skyrmions and theoretically show that the formation/annihilation of both skyrmions and antiskyrmions is enabled by the transient creation and propagation of topological singularities (magnetic monopolelike Bloch points). Critically, our results predict that during the winding/unwinding of skyrmionic textures, the Bloch-point propagation will give rise to an emergent electric field with a substantial amplitude and in the terahertz frequency range. We also demonstrate ways for controlling Bloch-point dynamics, which directly enable the tunablility on generation of this signal, as well as its frequency and amplitude. Our studies provide a concept of directly exploiting topological singularities for terahertz skyrmion-based electronic devices.</p><div class="tabs" id="unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#unique-name-1"><i class="iconfont iconbilibili"></i> Bilibili</a></li><li class="tab"><a href="#unique-name-2"><i class="iconfont iconyou-tube"></i> Youtube</a></li></ul><div class="tab-content"><div class="tab-pane active" id="unique-name-1"><div style="position: relative;">  <iframe    style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"    src="https://player.bilibili.com/player.html?cid=210190749&aid=286276003&page=1&as_wide=1&high_quality=1&danmaku=1"    frameborder="no"    scrolling="no"    allowfullscreen="allowfullscreen">  </iframe></div></div><div class="tab-pane" id="unique-name-2"><div style="position: relative; ">  <iframe    style="position: absolute; width: 100%; height: 80%; left: 0; top: 0;"    src="https://www.youtube.com/embed/ZiNg13hzKKg" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"    frameborder="no"    scrolling="no"    allowfullscreen="allowfullscreen">  </iframe></div></div></div></div><p><strong>Reference</strong><br /><font size=2.5><strong>Y. Li</strong>, L. Pierobon, M. Charilaou, H.-B. Braun, N. R. Walet, J. F. Löffler, J. Miles, C. Moutafis<br />Tunable terahertz oscillation arising from Bloch-point dynamics in chiral magnets <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033006" target="_blank" rel="noopener"><strong>Physical Review Research</strong></a> 2, 033006.<br /></font></p>]]></content>
+    <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20200701_BlochPointPaper.jpg" width="50%"><p>Our recent theoretical paper on “Tunable terahertz oscillation arising from Bloch-point dynamics in chiral magnets” has now been published at <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033006" target="_blank" rel="noopener">Physical Review Research</a>. This work arose from a collaboration between the University of Manchester(<a href="https://nest.cs.manchester.ac.uk/" target="_blank" rel="noopener">NEST group</a>, <a href="https://skyrmionics.org/" target="_blank" rel="noopener">Skyrmionics group</a>, and <a href="https://theory.physics.manchester.ac.uk/" target="_blank" rel="noopener">Theoretical physics group</a>) with the ETH Zürich (<a href="https://metphys.mat.ethz.ch/" target="_blank" rel="noopener">Metal Physics and Technology group</a>). This work reveals that the formation/annihilation of skyrmions will give rise to an emergent electric field with the frequency in the THz regime. The electric signal is due to the ultra-fast Bloch-point propagation, and both the amplitude and frequency can be tuned by the manipulation of Bloch-point dynamics. Our studies provide a concept of directly exploiting topological singularities which may be relevant for THz skyrmion-based electronic devices.</p><p>(Abstract) Skyrmionic textures are being extensively investigated due to the occurrence of novel topological magnetic phenomena, and their promising applications in a new generation of spintronic devices take advantage of the robust topological stability of their spin structures. The development of practical devices relies on a detailed understanding of how skyrmionic structures can be formed, transferred, detected, and annihilated. In this work our considerations go beyond static skyrmions and theoretically show that the formation/annihilation of both skyrmions and antiskyrmions is enabled by the transient creation and propagation of topological singularities (magnetic monopolelike Bloch points). Critically, our results predict that during the winding/unwinding of skyrmionic textures, the Bloch-point propagation will give rise to an emergent electric field with a substantial amplitude and in the terahertz frequency range. We also demonstrate ways for controlling Bloch-point dynamics, which directly enable the tunablility on generation of this signal, as well as its frequency and amplitude. Our studies provide a concept of directly exploiting topological singularities for terahertz skyrmion-based electronic devices.</p><div class="tabs" id="unique-name"><ul class="nav-tabs"><li class="tab active"><a href="#unique-name-1"><i class="iconfont iconbilibili"></i> Bilibili</a></li><li class="tab"><a href="#unique-name-2"><i class="iconfont iconyou-tube"></i> Youtube</a></li></ul><div class="tab-content"><div class="tab-pane active" id="unique-name-1"><div style="position: relative;">  <iframe    style="position: absolute; width: 100%; height: 100%; left: 0; top: 0;"    src="https://player.bilibili.com/player.html?cid=210190749&aid=286276003&page=1&as_wide=1&high_quality=1&danmaku=1"    frameborder="no"    scrolling="no"    allowfullscreen="allowfullscreen">  </iframe></div></div><div class="tab-pane" id="unique-name-2"><div style="position: relative; ">  <iframe    style="position: absolute; width: 100%; height: 80%; left: 0; top: 0;"    src="https://www.youtube.com/embed/ZiNg13hzKKg" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"    frameborder="no"    scrolling="no"    allowfullscreen="allowfullscreen">  </iframe></div></div></div></div><p><br></br></p><div class="note default">            <p><strong>Reference</strong><br /><font size=2.5>Tunable terahertz oscillation arising from Bloch-point dynamics in chiral magnets<br /><strong>Y. Li</strong>, L. Pierobon, M. Charilaou, H.-B. Braun, N. R. Walet, J. F. Löffler, J. J. Miles, C. Moutafis. <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033006" target="_blank" rel="noopener"><strong>Physical Review Research</strong></a>  2, 033006.<br /></font></p>          </div>]]></content>
     
     <summary type="html">
     
       &lt;img style=&quot;margin: auto;&quot; src=&quot;/images/20200701_BlochPointPaper.jpg&quot; width=&quot;50%&quot;&gt;
 &lt;p&gt;Our recent theoretical paper on “Tunable terahertz oscillation arising from Bloch-point dynamics in chiral magnets” has now been published at &lt;a href=&quot;https://journals-aps-org.manchester.idm.oclc.org/prresearch/abstract/10.1103/PhysRevResearch.2.033006&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Physical Review Research&lt;/a&gt;. This work arose from a collaboration between the University of Manchester(&lt;a href=&quot;https://nest.cs.manchester.ac.uk/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;NEST group&lt;/a&gt;, &lt;a href=&quot;https://skyrmionics.org/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Skyrmionics group&lt;/a&gt;, and &lt;a href=&quot;https://theory.physics.manchester.ac.uk/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Theoretical physics group&lt;/a&gt;) with the ETH Zürich (&lt;a href=&quot;https://metphys.mat.ethz.ch/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Metal Physics and Technology group&lt;/a&gt;). It reveals that the formation/annihilation of skyrmions will give rise to an emergent electric field with the frequency in the THz regime. The electric signal is due to the ultra-fast Bloch-point propagation, and both the amplitude and frequency can be tuned by the manipulation of Bloch-point dynamics. Our studies provide a concept of directly exploiting topological singularities which may be relevant for THz skyrmion-based electronic devices …&lt;/p&gt;
-&lt;div class=&quot;post-tags&quot; style=&quot;font-size:17px;margin:0;padding:0&quot; &gt;
-              &lt;a href=&quot;/tags/skyrmion/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; skyrmion&lt;/a&gt;
-              &lt;a href=&quot;/tags/Bloch-point/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; Bloch point&lt;/a&gt;
-              &lt;a href=&quot;/tags/antiskyrmion/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; antiskyrmion&lt;/a&gt;
-              &lt;a href=&quot;/tags/emergent-electromagnetic-field/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; emergent electromagnetic field&lt;/a&gt;
-              &lt;a href=&quot;/tags/terahertz/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; terahertz&lt;/a&gt;
-              &lt;a href=&quot;/tags/chiral-magnets/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; chiral magnets&lt;/a&gt;
-              &lt;a href=&quot;/tags/paper/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; paper&lt;/a&gt;
-              &lt;a href=&quot;/tags/2020/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; 2020&lt;/a&gt;
-          &lt;/div&gt;
+&lt;div class=&quot;post-tags&quot; style=&quot;margin:0;padding-top:5px;padding-bottom:0px&quot; &gt;
+    &lt;i class=&quot;fa fa-tags&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
+    &lt;a href=&quot;/tags/skyrmion/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;skyrmion&lt;/a&gt;
+    &lt;a href=&quot;/tags/antiskyrmion/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;antiskyrmion&lt;/a&gt;
+    &lt;a href=&quot;/tags/Bloch-point/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;Bloch point&lt;/a&gt;
+    &lt;a href=&quot;/tags/emergent-electromagnetic-field/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;emergent electromagnetic field&lt;/a&gt;
+    &lt;a href=&quot;/tags/terahertz/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;terahertz&lt;/a&gt;
+    &lt;a href=&quot;/tags/chiral-magnets/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;chiral magnets&lt;/a&gt;
+    &lt;a href=&quot;/tags/magnetic-transition/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;magnetic transition&lt;/a&gt;
+    &lt;a href=&quot;/tags/magnetic-transition/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;paper&lt;/a&gt;
+    &lt;a href=&quot;/tags/magnetic-transition/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;2020&lt;/a&gt;
+&lt;/div&gt;
     
     </summary>
     
+    
+      <category term="Magnetic skyrmion" scheme="https://yu-li.me/categories/Magnetic-skyrmion/"/>
+    
+      <category term="3D dyanmic transition" scheme="https://yu-li.me/categories/Magnetic-skyrmion/3D-dyanmic-transition/"/>
     
     
       <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
@@ -67,26 +73,33 @@
     <link href="https://yu-li.me/20200615_New_skyrmionic_synapse_accepted.html"/>
     <id>https://yu-li.me/20200615_New_skyrmionic_synapse_accepted.html</id>
     <published>2020-06-14T16:00:00.000Z</published>
-    <updated>2020-07-15T13:30:35.439Z</updated>
+    <updated>2020-07-16T12:08:28.556Z</updated>
     
-    <content type="html"><![CDATA[<p>(Abstract) Magnetic skyrmions have attracted considerable interest, especially after their recent experimental demonstration at room temperature in multilayers. The robustness, nanoscale size and non-volatility of skyrmions have triggered a substantial amount of research on skyrmion-based low-power, ultra-dense nanocomputing and neuromorphic systems such as artificial synapses. Room-temperature operation is required to integrate skyrmionic synapses in practical future devices. Here, we numerically propose a nanoscale skyrmionic synapse composed of magnetic multilayers that enables room-temperature device operation tailored for optimal synaptic resolution. We demonstrate that when embedding such multilayer skyrmionic synapses in a simple spiking neural network (SNN) with unsupervised learning via the spike-timing-dependent plasticity rule, we can achieve only a ∼78% classification accuracy in the MNIST handwritten data set under realistic conditions. We propose that this performance can be significantly improved to ∼98.61% by using a deep SNN with supervised learning. Our results illustrate that the proposed skyrmionic synapse can be a potential candidate for future energy-efficient neuromorphic edge computing.</p><p><strong>Reference</strong></p><p><font size=2.5>R. Chen, C. Li, <strong>Y. Li</strong>, J. Miles, G. Indiveri, S. Furber, V. F. Pavlidis, and C. Moutafis<br />Nanoscale room-temperature multilayer skyrmionic synapse for deep spiking neural networks <a href="https://journals.aps.org/prapplied/accepted/4f076Ac0Ce71dc0482122c9892c913fac38129667" target="_blank" rel="noopener"><strong>Physical Review Applied</strong></a> (Accepted).<br /></font></p>]]></content>
+    <content type="html"><![CDATA[<p>(Abstract) Magnetic skyrmions have attracted considerable interest, especially after their recent experimental demonstration at room temperature in multilayers. The robustness, nanoscale size and non-volatility of skyrmions have triggered a substantial amount of research on skyrmion-based low-power, ultra-dense nanocomputing and neuromorphic systems such as artificial synapses. Room-temperature operation is required to integrate skyrmionic synapses in practical future devices. Here, we numerically propose a nanoscale skyrmionic synapse composed of magnetic multilayers that enables room-temperature device operation tailored for optimal synaptic resolution. We demonstrate that when embedding such multilayer skyrmionic synapses in a simple spiking neural network (SNN) with unsupervised learning via the spike-timing-dependent plasticity rule, we can achieve only a ∼78% classification accuracy in the MNIST handwritten data set under realistic conditions. We propose that this performance can be significantly improved to ∼98.61% by using a deep SNN with supervised learning. Our results illustrate that the proposed skyrmionic synapse can be a potential candidate for future energy-efficient neuromorphic edge computing.<br /><br></br></p><div class="note default">            <p><strong>Reference</strong><br /><font size=2.5>Nanoscale room-temperature multilayer skyrmionic synapse for deep spiking neural networks<br />R. Chen, C. Li, <strong>Y. Li</strong>, J. Miles, G. Indiveri, S. Furber, V. F. Pavlidis, and C. Moutafis. <a href="https://journals.aps.org/prapplied/accepted/4f076Ac0Ce71dc0482122c9892c913fac38129667" target="_blank" rel="noopener"><strong>Physical Review Applied</strong></a> (Accepted).<br /></font></p>          </div>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;(Abstract) Magnetic skyrmions have attracted considerable interest, especially after their recent experimental demonstration at room temperature in multilayers. The robustness, nanoscale size and non-volatility of skyrmions have triggered a substantial amount of research on skyrmion-based low-power, ultra-dense nanocomputing and neuromorphic systems such as artificial synapses. Room-temperature operation is required to integrate skyrmionic synapses in practical future devices. Here, we numerically propose a nanoscale skyrmionic synapse composed of magnetic multilayers that …&lt;/p&gt;
-&lt;div class=&quot;post-tags&quot; style=&quot;font-size:17px;margin:0;padding:0&quot; &gt;
-              &lt;a href=&quot;/tags/skyrmion/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; skyrmion&lt;/a&gt;
-              &lt;a href=&quot;/tags/magnetic-multilayer/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; magnetic multilayer&lt;/a&gt;
-              &lt;a href=&quot;/tags/room-temperature/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; room temperature&lt;/a&gt;
-              &lt;a href=&quot;/tags/neuromorphic-computing/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; neuromorphic computing&lt;/a&gt;
-              &lt;a href=&quot;/tags/spiking-neural-networks-(SNN)/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; spiking neural networks (SNN)&lt;/a&gt;
-              &lt;a href=&quot;/tags/supervised-unsupervised-learning/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; supervised/unsupervised learning&lt;/a&gt;
-              &lt;a href=&quot;/tags/paper/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; paper&lt;/a&gt;
-              &lt;a href=&quot;/tags/2020/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; 2020&lt;/a&gt;
-          &lt;/div&gt;
+&lt;div class=&quot;post-tags&quot; style=&quot;margin:0;padding-top:5px;padding-bottom:0px&quot; &gt;
+    &lt;i class=&quot;fa fa-tags&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
+    &lt;a href=&quot;/tags/skyrmion/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;skyrmion&lt;/a&gt;
+    &lt;a href=&quot;/tags/magnetic-multilayer/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;magnetic multilayer&lt;/a&gt;
+    &lt;a href=&quot;/tags/room-temperature/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;room temperature&lt;/a&gt;
+    &lt;a href=&quot;/tags/neuromorphic-computing/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;neuromorphic computing&lt;/a&gt;
+    &lt;a href=&quot;/tags/spiking-neural-networks-(SNN)/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;spiking neural networks (SNN)&lt;/a&gt;
+    &lt;a href=&quot;/tags/supervised-unsupervised-learning/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;supervised/unsupervised learning&lt;/a&gt;
+    &lt;a href=&quot;/tags/paper/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;paper&lt;/a&gt;
+    &lt;a href=&quot;/tags/2020/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;2020&lt;/a&gt;
+&lt;/div&gt;
     
     </summary>
     
+    
+      <category term="Magnetic skyrmion" scheme="https://yu-li.me/categories/Magnetic-skyrmion/"/>
+    
+      <category term="Application" scheme="https://yu-li.me/categories/Magnetic-skyrmion/Application/"/>
+    
+      <category term="Neurophonic computing" scheme="https://yu-li.me/categories/Magnetic-skyrmion/Application/Neurophonic-computing/"/>
     
     
       <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
@@ -112,7 +125,7 @@
     <link href="https://yu-li.me/20191205_SkyrmionSeminar.html"/>
     <id>https://yu-li.me/20191205_SkyrmionSeminar.html</id>
     <published>2019-12-05T04:50:00.000Z</published>
-    <updated>2019-12-14T21:02:42.000Z</updated>
+    <updated>2020-07-16T12:12:30.159Z</updated>
     
     <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20191205_SkyrmionSeminar.JPG"><p>I was really excited to attend the <a href="https://www.we-heraeus-stiftung.de/veranstaltungen/seminare/2019/skyrmions-in-magnetic-materials/" target="_blank" rel="noopener">British-German WE-Heraeus-Seminar</a> held in Physikzentrum Bad Honnef, Germany (1st - 5th Dec., 2019). The topic this year is <em>„Skyrmions in Magnetic Materials“</em>.</p><blockquote class="blockquote-center"><p><em>Building on the long tradition of close collaborations of the scientific communities in the United Kingdom, France, Poland, and Germany, these Seminars aim to foster the exchange and scientific cooperation between research groups in these countries on a bi-national level as a means to promote the European spirit.</em></p></blockquote><p>In the poster session, I was honored to present our recent work: <em>„Tuneable Bloch-point dynamics during switching of skyrmions and antiskyrmions in chiral magnets”</em> (manuscript available on <a href="https://arxiv.org/pdf/1911.12781.pdf" target="_blank" rel="noopener"><strong>arXiv</strong></a>), and I also won the <strong>best poster prize</strong>!</p>]]></content>
     
@@ -121,23 +134,28 @@
       &lt;img style=&quot;margin: auto;&quot; src=&quot;/images/20191205_SkyrmionSeminar.JPG&quot;&gt;
 &lt;p&gt;I was really excited to attend the &lt;a href=&quot;https://www.we-heraeus-stiftung.de/veranstaltungen/seminare/2019/skyrmions-in-magnetic-materials/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;British-German WE-Heraeus-Seminar&lt;/a&gt; held in Physikzentrum Bad Honnef, Germany (1st - 5th Dec., 2019). The topic this year is &lt;em&gt;„Skyrmions in Magnetic Materials“&lt;/em&gt;.&lt;/p&gt;
 &lt;p&gt;In the poster session, I was honored to present our recent work: &lt;em&gt;„Tuneable Bloch-point dynamics during switching of skyrmions and antiskyrmions in chiral magnets”&lt;/em&gt; (manuscript available on &lt;a href=&quot;https://arxiv.org/pdf/1911.12781.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;&lt;strong&gt;arXiv&lt;/strong&gt;&lt;/a&gt;), and I also won the &lt;strong&gt;best poster prize&lt;/strong&gt;!&lt;/p&gt;
-&lt;div class=&quot;post-tags&quot; style=&quot;font-size:17px;margin:0;padding:0&quot; &gt;
-              &lt;a href=&quot;/tags/skyrmion/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; skyrmion&lt;/a&gt;            
-              &lt;a href=&quot;/tags/British-German-WE-Heraeus-Seminar/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; British-German WE-Heraeus-Seminar&lt;/a&gt;
-              &lt;a href=&quot;/tags/conference/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; conference&lt;/a&gt;
-          &lt;/div&gt;
+&lt;div class=&quot;post-tags&quot; style=&quot;margin:0;padding-top:5px;padding-bottom:0px&quot; &gt;
+    &lt;i class=&quot;fa fa-tags&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
+    &lt;a href=&quot;/tags/skyrmion/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;skyrmion&lt;/a&gt;            
+    &lt;a href=&quot;/tags/British-German-WE-Heraeus-Seminar/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;British-German WE-Heraeus-Seminar&lt;/a&gt;
+    &lt;a href=&quot;/tags/conference/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;conference&lt;/a&gt;
+&lt;/div&gt;
     
     </summary>
     
     
+      <category term="Magnetic skyrmion" scheme="https://yu-li.me/categories/Magnetic-skyrmion/"/>
+    
+      <category term="3D dyanmic transition" scheme="https://yu-li.me/categories/Magnetic-skyrmion/3D-dyanmic-transition/"/>
+    
     
       <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
+    
+      <category term="conference" scheme="https://yu-li.me/tags/conference/"/>
     
       <category term="2019" scheme="https://yu-li.me/tags/2019/"/>
     
       <category term="British-German WE-Heraeus-Seminar" scheme="https://yu-li.me/tags/British-German-WE-Heraeus-Seminar/"/>
-    
-      <category term="conference" scheme="https://yu-li.me/tags/conference/"/>
     
   </entry>
   
@@ -146,27 +164,34 @@
     <link href="https://yu-li.me/20191202_THz-Bloch-point-dynamics.html"/>
     <id>https://yu-li.me/20191202_THz-Bloch-point-dynamics.html</id>
     <published>2019-12-01T16:00:00.000Z</published>
-    <updated>2020-07-10T07:00:52.443Z</updated>
+    <updated>2020-07-16T12:12:23.301Z</updated>
     
-    <content type="html"><![CDATA[(Abstract) Skyrmionic textures are being extensively investigated due to the occurrence of novel topological magnetic phenomena and their promising applications in a new generation of spintronic devices that take advantage of the robust topological stability of their spin structures. The development of practical devices relies on a detailed understanding of how skyrmionic structures can be formed, transferred, detected and annihilated. In this work, our considerations go beyond static skyrmions and theoretically show that the formation/annihilation of both skyrmions and antiskyrmions is enabled by the transient creation and propagation of topological singularities (magnetic monopole-like Bloch points). Critically, during the winding/unwinding of skyrmionic textures, our results predict that the Bloch-point propagation will give rise to an emergent electric field in a terahertz frequency range and with substantial amplitude. We also demonstrate ways for controlling Bloch-point dynamics, which directly enable the tuneability on both frequency and amplitude of this signal. Our studies provide a concept of directly exploiting topological singularities for terahertz skyrmion-based electronic devices.<h2 id="reference"><a class="markdownIt-Anchor" href="#reference"></a> Reference</h2><blockquote><p><strong>Y. Li</strong>, L. Pierobon, M. Charilaou, H.-B. Braun, N. R. Walet, J. F. Löffler, J. Miles, C. Moutafis<br /><a href="https://arxiv.org/abs/1911.12781" target="_blank" rel="noopener">Tuneable terahertz oscillation arising from Bloch-point dynamics in chiral magnets</a>. <em><strong>arXiv</strong></em> 1911.12781.</p></blockquote>]]></content>
+    <content type="html"><![CDATA[(Abstract) Skyrmionic textures are being extensively investigated due to the occurrence of novel topological magnetic phenomena and their promising applications in a new generation of spintronic devices that take advantage of the robust topological stability of their spin structures. The development of practical devices relies on a detailed understanding of how skyrmionic structures can be formed, transferred, detected and annihilated. In this work, our considerations go beyond static skyrmions and theoretically show that the formation/annihilation of both skyrmions and antiskyrmions is enabled by the transient creation and propagation of topological singularities (magnetic monopole-like Bloch points). Critically, during the winding/unwinding of skyrmionic textures, our results predict that the Bloch-point propagation will give rise to an emergent electric field in a terahertz frequency range and with substantial amplitude. We also demonstrate ways for controlling Bloch-point dynamics, which directly enable the tuneability on both frequency and amplitude of this signal. Our studies provide a concept of directly exploiting topological singularities for terahertz skyrmion-based electronic devices.<br></br><div class="note default">            <p><strong>Reference</strong><br /><font size=2.5>Tuneable terahertz oscillation arising from Bloch-point dynamics in chiral magnets<br /><strong>Y. Li</strong>, L. Pierobon, M. Charilaou, H.-B. Braun, N. R. Walet, J. F. Löffler, J. J. Miles, C. Moutafis. <a href="https://arxiv.org/abs/1911.12781" target="_blank" rel="noopener"><strong>arXiv</strong></a> 7, 11204.<br /></font></p>          </div>]]></content>
     
     <summary type="html">
     
       &lt;p&gt;(Abstract) Skyrmionic textures are being extensively investigated, due to the occurrence of novel topological magnetic phenomena and their promising applications in a new generation of spintronic devices. In this work, our considerations go beyond static skyrmions and …&lt;/p&gt;
-&lt;div class=&quot;post-tags&quot; style=&quot;font-size:17px;margin:0;padding:0&quot; &gt;
-  &lt;a href=&quot;/tags/skyrmion/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; skyrmion&lt;/a&gt;
-  &lt;a href=&quot;/tags/antiskyrmion/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; antiskyrmion&lt;/a&gt;
-  &lt;a href=&quot;/tags/Bloch-point/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; Bloch point&lt;/a&gt;
-  &lt;a href=&quot;/tags/emergent-electromagnetic-field/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; emergent electromagnetic field&lt;/a&gt;
-  &lt;a href=&quot;/tags/terahertz/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; terahertz&lt;/a&gt;
-  &lt;a href=&quot;/tags/chiral-magnets/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; chiral magnets&lt;/a&gt;
+&lt;div class=&quot;post-tags&quot; style=&quot;margin:0;padding-top:5px;padding-bottom:0px&quot; &gt;
+  &lt;i class=&quot;fa fa-tags&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
+  &lt;a href=&quot;/tags/skyrmion/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;skyrmion&lt;/a&gt;
+  &lt;a href=&quot;/tags/antiskyrmion/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;antiskyrmion&lt;/a&gt;
+  &lt;a href=&quot;/tags/Bloch-point/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;Bloch point&lt;/a&gt;
+  &lt;a href=&quot;/tags/emergent-electromagnetic-field/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;emergent electromagnetic field&lt;/a&gt;
+  &lt;a href=&quot;/tags/terahertz/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;terahertz&lt;/a&gt;
+  &lt;a href=&quot;/tags/chiral-magnets/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;chiral magnets&lt;/a&gt;
 &lt;/div&gt;
     
     </summary>
     
     
+      <category term="Magnetic skyrmion" scheme="https://yu-li.me/categories/Magnetic-skyrmion/"/>
+    
+      <category term="3D dyanmic transition" scheme="https://yu-li.me/categories/Magnetic-skyrmion/3D-dyanmic-transition/"/>
+    
     
       <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
+    
+      <category term="2019" scheme="https://yu-li.me/tags/2019/"/>
     
       <category term="Bloch point" scheme="https://yu-li.me/tags/Bloch-point/"/>
     
@@ -178,8 +203,6 @@
     
       <category term="chiral magnets" scheme="https://yu-li.me/tags/chiral-magnets/"/>
     
-      <category term="2019" scheme="https://yu-li.me/tags/2019/"/>
-    
   </entry>
   
   <entry>
@@ -187,9 +210,9 @@
     <link href="https://yu-li.me/20190524_Conference-HMM2019.html"/>
     <id>https://yu-li.me/20190524_Conference-HMM2019.html</id>
     <published>2019-05-23T16:00:00.000Z</published>
-    <updated>2019-12-14T21:07:40.000Z</updated>
+    <updated>2020-07-16T12:12:19.286Z</updated>
     
-    <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20190524_Conference-HMM2019.jpg"><p>Really excited to participate the 12th International Symposium on Hysteresis Modeling and Micromagnetics (<a href="http://users.math.uoc.gr/~komineas/HMM2019/index.html" target="_blank" rel="noopener">HMM2019</a>) in Crete, Greece (19th-22nd May, 2019). I presented a talk in the first session “Magnetic Solitons I”, with the title “Controllable THz Bloch-point propagation in the switching process of magnetic skyrmions“. I also presented a poster from our recently published work <a href="/20181112_Switching-of-ideal-defective-skyrmion-lattices.html"><em><strong>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films</strong></em></a>.</p><div class="post-tags" style="font-size:17px;margin:0;padding:0" ><a href="/tags/skyrmion/" rel="tag" data-pjax-state=""><i class="fa fa-tag"></i> skyrmion</a><a href="/tags/HMM/" rel="tag" data-pjax-state=""><i class="fa fa-tag"></i> HMM</a><a href="/tags/conference/" rel="tag" data-pjax-state=""><i class="fa fa-tag"></i> conference</a></div>]]></content>
+    <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20190524_Conference-HMM2019.jpg"><p>Really excited to participate the 12th International Symposium on Hysteresis Modeling and Micromagnetics (<a href="http://users.math.uoc.gr/~komineas/HMM2019/index.html" target="_blank" rel="noopener">HMM2019</a>) in Crete, Greece (19th-22nd May, 2019). I presented a talk in the first session “Magnetic Solitons I”, with the title “Controllable THz Bloch-point propagation in the switching process of magnetic skyrmions“. I also presented a poster from our recently published work <a href="/20181112_Switching-of-ideal-defective-skyrmion-lattices.html"><em><strong>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films</strong></em></a>.</p><div class="post-tags" style="margin:0;padding-top:5px;padding-bottom:0px" >    <i class="fa fa-tags" aria-hidden="true"></i><a href="/tags/skyrmion/" rel="tag" style="margin:0;padding-right:5px">skyrmion</a><a href="/tags/HMM/" rel="tag" style="margin:0;padding-right:5px">HMM</a><a href="/tags/conference/" rel="tag" style="margin:0;padding-right:5px">conference</a></div>]]></content>
     
     <summary type="html">
     
@@ -202,14 +225,18 @@
     </summary>
     
     
+      <category term="Magnetic skyrmion" scheme="https://yu-li.me/categories/Magnetic-skyrmion/"/>
+    
+      <category term="3D dyanmic transition" scheme="https://yu-li.me/categories/Magnetic-skyrmion/3D-dyanmic-transition/"/>
+    
     
       <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
     
-      <category term="2019" scheme="https://yu-li.me/tags/2019/"/>
+      <category term="HMM" scheme="https://yu-li.me/tags/HMM/"/>
     
       <category term="conference" scheme="https://yu-li.me/tags/conference/"/>
     
-      <category term="HMM" scheme="https://yu-li.me/tags/HMM/"/>
+      <category term="2019" scheme="https://yu-li.me/tags/2019/"/>
     
   </entry>
   
@@ -218,24 +245,31 @@
     <link href="https://yu-li.me/20181112_Switching-of-ideal-defective-skyrmion-lattices.html"/>
     <id>https://yu-li.me/20181112_Switching-of-ideal-defective-skyrmion-lattices.html</id>
     <published>2018-11-11T16:00:00.000Z</published>
-    <updated>2019-12-14T21:07:55.000Z</updated>
+    <updated>2020-07-16T12:12:46.007Z</updated>
     
-    <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20181112_Switching-of-ideal-defective-skyrmion-lattices.png"><p>(Abstract) Magnetic phase transitions are a manifestation of competing interactions whose behavior is critically modified by defects and becomes even more complex when topological constraints are involved. In particular, the investigation of skyrmions and skyrmion lattices offers insight into fundamental processes of topological-charge creation and annihilation upon changing the magnetic state. Nonetheless, the exact physical mechanisms behind these phase transitions remain unresolved. Here, we show numerically that it is possible to collectively reverse the polarity of a skyrmion lattice in a field-induced first-order phase transition via a transient antiskyrmion-lattice state. We thus propose a new type of phase transformation where a skyrmion lattice inverts to another one due to topological constraints. In the presence of even a single defect, the process becomes a second-order phase transition with gradual topological-charge melting. This radical change in the system’s behavior from a first-order to a second-order phase transition demonstrates that defects in real materials could prevent us from observing collective topological phenomena. We have systematically compared ultra-thin films with isotropic and anisotropic Dzyaloshinskii-Moriya interactions (DMIs), and demonstrated a nearly identical behavior for such technologically relevant interfacial systems.</p><h2 id="reference"><a class="markdownIt-Anchor" href="#reference"></a> Reference</h2><blockquote><p>L. Pierobon, C. Moutafis, <strong>Y. Li</strong>, J. F. Löffler, and M. Charilaou<br /><a href="https://www.nature.com/articles/s41598-018-34526-0" target="_blank" rel="noopener">Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films</a>. <em><strong>Scientific Reports</strong></em> 8, 16675.</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20181112_Switching-of-ideal-defective-skyrmion-lattices.png"><p>(Abstract) Magnetic phase transitions are a manifestation of competing interactions whose behavior is critically modified by defects and becomes even more complex when topological constraints are involved. In particular, the investigation of skyrmions and skyrmion lattices offers insight into fundamental processes of topological-charge creation and annihilation upon changing the magnetic state. Nonetheless, the exact physical mechanisms behind these phase transitions remain unresolved. Here, we show numerically that it is possible to collectively reverse the polarity of a skyrmion lattice in a field-induced first-order phase transition via a transient antiskyrmion-lattice state. We thus propose a new type of phase transformation where a skyrmion lattice inverts to another one due to topological constraints. In the presence of even a single defect, the process becomes a second-order phase transition with gradual topological-charge melting. This radical change in the system’s behavior from a first-order to a second-order phase transition demonstrates that defects in real materials could prevent us from observing collective topological phenomena. We have systematically compared ultra-thin films with isotropic and anisotropic Dzyaloshinskii-Moriya interactions (DMIs), and demonstrated a nearly identical behavior for such technologically relevant interfacial systems.</p><p><br></br></p><div class="note default">            <p><strong>Reference</strong><br /><font size=2.5>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films<br />L. Pierobon, C. Moutafis, <strong>Y. Li</strong>, J. F. Löffler, and M. Charilaou. <a href="https://www.nature.com/articles/s41598-018-34526-0" target="_blank" rel="noopener"><strong>Scientific Reports</strong></a> 8, 16675.<br /></font></p>          </div>]]></content>
     
     <summary type="html">
     
       &lt;img style=&quot;margin: auto;&quot; src=&quot;/images/20181112_Switching-of-ideal-defective-skyrmion-lattices.png&quot;&gt;
 &lt;p&gt;(Abstract) Magnetic phase transitions are a manifestation of competing interactions whose behavior is critically modified by defects and becomes even more complex when topological constraints are involved. In particular, the investigation of skyrmions and skyrmion lattices offers insight into fundamental processes of topological-charge creation and annihilation upon changing the magnetic state. Nonetheless …&lt;/p&gt;
-&lt;div class=&quot;post-tags&quot; style=&quot;font-size:17px;margin:0;padding:0&quot; &gt;
-    &lt;a href=&quot;/tags/skyrmion/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; skyrmion&lt;/a&gt;
-    &lt;a href=&quot;/tags/skyrmion-lattice/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; skyrmion lattice&lt;/a&gt;
-    &lt;a href=&quot;/tags/antiskyrmion/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; antiskyrmion&lt;/a&gt;
-    &lt;a href=&quot;/tags/field-induced-transition/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; field-induced transition&lt;/a&gt;
-    &lt;a href=&quot;/tags/defects/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; defects&lt;/a&gt;
+&lt;div class=&quot;post-tags&quot; style=&quot;margin:0;padding-top:5px;padding-bottom:0px&quot; &gt;
+    &lt;i class=&quot;fa fa-tags&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
+    &lt;a href=&quot;/tags/skyrmion/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;skyrmion&lt;/a&gt;
+    &lt;a href=&quot;/tags/skyrmion-lattice/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;skyrmion lattice&lt;/a&gt;
+    &lt;a href=&quot;/tags/antiskyrmion/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;antiskyrmion&lt;/a&gt;
+    &lt;a href=&quot;/tags/field-induced-transition/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;field-induced transition&lt;/a&gt;
+    &lt;a href=&quot;/tags/defects/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;defects&lt;/a&gt;
 &lt;/div&gt;
     
     </summary>
     
+    
+      <category term="Magnetic skyrmion" scheme="https://yu-li.me/categories/Magnetic-skyrmion/"/>
+    
+      <category term="Stability and transition" scheme="https://yu-li.me/categories/Magnetic-skyrmion/Stability-and-transition/"/>
+    
+      <category term="Defects" scheme="https://yu-li.me/categories/Magnetic-skyrmion/Stability-and-transition/Defects/"/>
     
     
       <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
@@ -257,26 +291,31 @@
     <link href="https://yu-li.me/20170911_A-Monte-Carlo-model-for-RRAM-switching.html"/>
     <id>https://yu-li.me/20170911_A-Monte-Carlo-model-for-RRAM-switching.html</id>
     <published>2017-09-10T16:00:00.000Z</published>
-    <updated>2019-12-14T20:55:20.000Z</updated>
+    <updated>2020-07-16T12:02:49.919Z</updated>
     
-    <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20170911_RRAM_MonteCarlo.png">(Abstract) In resistive random access memories, modeling conductive filament growing dynamics is important to understand the switching mechanism and variability. In this paper, a universal Monte Carlo simulator is developed based on a cell switching model and a tunneling-based transport model. Driven by external electric field, the growing process of the nanoscale filament occurring in the gap region is actually dominated by cells’ conductive/insulating switching, modeled through a phenomenological physics-based probability function. The electric transport through the partially formed CF is considered as current tunneling in the framework of the Quantum Point Contact model, and the potential barrier is modulated during cells’ evolution. To demonstrate the validity and universality of our simulator, various operation schemes are simulated, with the simulated I − V characteristics well explaining experimental observations. Furthermore, the statistical analyses of simulation results in terms of Weibull distribution and conductance evolution also nicely track previous experimental results. Representing a simulation scale that links atomic-scale simulations to compact modeling, our simulator has the advantage of being much faster comparing with other atomic-scale models. Meanwhile, our simulator shows good universality since it can be applied to various operation signals, and also to different electrodes and dielectric layers dominated by different switching mechanisms.<h2 id="reference"><a class="markdownIt-Anchor" href="#reference"></a> Reference</h2><blockquote><p><strong>Y. Li</strong>, M. Zhang, S. Long, J. Teng, Q. Liu, H. Lv, E. Miranda, J. Suñé, and M. Liu<br /><a href="https://www.nature.com/articles/s41598-017-11165-5#Sec16" target="_blank" rel="noopener">Investigation on the conductive filament growth dynamics in resistive switching memory via a universal Monte Carlo simulator</a>.  <em><strong>Scientific Reports</strong></em> 7, 11204.</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20170911_RRAM_MonteCarlo.png">(Abstract) In resistive random access memories, modeling conductive filament growing dynamics is important to understand the switching mechanism and variability. In this paper, a universal Monte Carlo simulator is developed based on a cell switching model and a tunneling-based transport model. Driven by external electric field, the growing process of the nanoscale filament occurring in the gap region is actually dominated by cells’ conductive/insulating switching, modeled through a phenomenological physics-based probability function. The electric transport through the partially formed CF is considered as current tunneling in the framework of the Quantum Point Contact model, and the potential barrier is modulated during cells’ evolution. To demonstrate the validity and universality of our simulator, various operation schemes are simulated, with the simulated I − V characteristics well explaining experimental observations. Furthermore, the statistical analyses of simulation results in terms of Weibull distribution and conductance evolution also nicely track previous experimental results. Representing a simulation scale that links atomic-scale simulations to compact modeling, our simulator has the advantage of being much faster comparing with other atomic-scale models. Meanwhile, our simulator shows good universality since it can be applied to various operation signals, and also to different electrodes and dielectric layers dominated by different switching mechanisms.<br></br><div class="note default">            <p><strong>Reference</strong><br /><font size=2.5>Investigation on the conductive filament growth dynamics in resistive switching memory via a universal Monte Carlo simulator<br /><strong>Y. Li</strong>, M. Zhang, S. Long, J. Teng, Q. Liu, H. Lv, E. Miranda, J. Suñé, and M. Liu. <a href="https://www.nature.com/articles/s41598-017-11165-5#Sec16" target="_blank" rel="noopener"><strong>Scientific Reports</strong></a> 7, 11204.<br /></font></p>          </div>]]></content>
     
     <summary type="html">
     
       &lt;img style=&quot;margin: auto;&quot; src=&quot;/images/20170911_RRAM_MonteCarlo.png&quot;&gt;
 &lt;p&gt;(Abstract) In resistive random access memories, modeling conductive filament growing dynamics is important to understand the switching mechanism and variability. In this paper, a universal Monte Carlo simulator is developed based on a cell switching model and a tunneling-based transport model. Driven by external electric field …&lt;/p&gt;
-&lt;div class=&quot;post-tags&quot; style=&quot;font-size:17px;margin:0;padding:0&quot; &gt;
-	&lt;a href=&quot;/tags/resistive-random-access-memory-RRAM/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; resistive random access memory (RRAM)&lt;/a&gt;
-	&lt;a href=&quot;/tags/resistive-switching/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; resistive switching&lt;/a&gt;
-	&lt;a href=&quot;/tags/conductive-filament/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; conductive filament&lt;/a&gt;
-	&lt;a href=&quot;/tags/Monte-Carlo/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; Monte Carlo&lt;/a&gt;
+&lt;div class=&quot;post-tags&quot; style=&quot;margin:0;padding-top:5px;padding-bottom:0px&quot; &gt;
+    &lt;i class=&quot;fa fa-tags&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
+	&lt;a href=&quot;/tags/resistive-random-access-memory-RRAM/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;resistive random access memory (RRAM)&lt;/a&gt;
+	&lt;a href=&quot;/tags/resistive-switching/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;resistive switching&lt;/a&gt;
+	&lt;a href=&quot;/tags/conductive-filament/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;conductive filament&lt;/a&gt;
+	&lt;a href=&quot;/tags/Monte-Carlo/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;Monte Carlo&lt;/a&gt;
 &lt;/div&gt;
     
     </summary>
     
     
+      <category term="Memristor" scheme="https://yu-li.me/categories/Memristor/"/>
+    
     
       <category term="resistive random access memory (RRAM)" scheme="https://yu-li.me/tags/resistive-random-access-memory-RRAM/"/>
+    
+      <category term="Monte Carlo" scheme="https://yu-li.me/tags/Monte-Carlo/"/>
     
       <category term="resistive switching" scheme="https://yu-li.me/tags/resistive-switching/"/>
     
@@ -284,33 +323,34 @@
     
       <category term="2017" scheme="https://yu-li.me/tags/2017/"/>
     
-      <category term="Monte Carlo" scheme="https://yu-li.me/tags/Monte-Carlo/"/>
-    
   </entry>
   
   <entry>
-    <title>A review of RRAM</title>
+    <title>An overview of RRAM</title>
     <link href="https://yu-li.me/20170418_A-review-of-RRAM.html"/>
     <id>https://yu-li.me/20170418_A-review-of-RRAM.html</id>
     <published>2017-04-17T16:00:00.000Z</published>
-    <updated>2019-12-14T21:19:01.000Z</updated>
+    <updated>2020-07-16T12:02:28.287Z</updated>
     
-    <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20170418_A-review-of-RRAM.png"><p>(Abstract) Reversible chemical and structural changes induced by ionic motion and reaction in response to electrical stimuli leads to resistive switching effects in metal-insulator-metal structures. Filamentary switching based on the formation and rupture of nanoscale conductive filament has been applied in non-volatile memory and volatile selector devices with low power consumption and fast switching speeds. Before the mass production of resistive switching devices, great efforts are still required to enable stable and reliable switching performances. The conductive filament, a bridge of microscopic metal-insulator-metal structure and macroscopic resistance states, plays an irreplaceable part in resistive switching behavior, as unreliable performance often originates from unstable filament behavior. In this Review, departing from the filamentary switching mechanism and the existing issues, recent advances of the switching performance improvement through the conductive filament modulation are discussed, in the sequence of material modulation, device structure design and switching operation scheme optimization. In particular, two-dimensional (2D) nanomaterials with excellent properties including and beyond graphene, are discussed with emphasis on performance improvement by their active roles as the switching layer, insertion layer, thin electrode, patterned electrode, and edge electrode, etc.</p><h2 id="reference"><a class="markdownIt-Anchor" href="#reference"></a> Reference</h2><blockquote><p><strong>Y. Li</strong>, S. Long, Q. Liu, H. Lv, and M. Liu<br /><a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.201604306" target="_blank" rel="noopener">Resistive Switching Performance Improvement via Modulating Nanoscale Conductive Filament, Involving the Application of Two‐Dimensional Layered Materials</a>. <em><strong>Small</strong></em> 13, 1604306   - selected as <a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.201770187" target="_blank" rel="noopener"><strong>cover picture</strong></a>.</p></blockquote>]]></content>
+    <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20170418_A-review-of-RRAM.png"><p>(Abstract) Reversible chemical and structural changes induced by ionic motion and reaction in response to electrical stimuli leads to resistive switching effects in metal-insulator-metal structures. Filamentary switching based on the formation and rupture of nanoscale conductive filament has been applied in non-volatile memory and volatile selector devices with low power consumption and fast switching speeds. Before the mass production of resistive switching devices, great efforts are still required to enable stable and reliable switching performances. The conductive filament, a bridge of microscopic metal-insulator-metal structure and macroscopic resistance states, plays an irreplaceable part in resistive switching behavior, as unreliable performance often originates from unstable filament behavior. In this Review, departing from the filamentary switching mechanism and the existing issues, recent advances of the switching performance improvement through the conductive filament modulation are discussed, in the sequence of material modulation, device structure design and switching operation scheme optimization. In particular, two-dimensional (2D) nanomaterials with excellent properties including and beyond graphene, are discussed with emphasis on performance improvement by their active roles as the switching layer, insertion layer, thin electrode, patterned electrode, and edge electrode, etc.<br /><br></br></p><div class="note default">            <p><strong>Reference</strong><br /><font size=2.5>Resistive switching performance improvement via modulating nanoscale conductive filament,involving the application of two‐dimensional layered materials<br /><strong>Y. Li</strong>, S. Long, Q. Liu, H. Lv, and M. Liu. <a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.201604306" target="_blank" rel="noopener"><strong>Small</strong></a> 13, 1604306   - selected as <a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.201770187" target="_blank" rel="noopener"><strong>cover picture</strong></a>.<br /></font></p>          </div>]]></content>
     
     <summary type="html">
     
       &lt;img style=&quot;margin: auto;&quot; src=&quot;/images/20170418_A-review-of-RRAM.png&quot;&gt;
 &lt;p&gt;(Abstract) Reversible chemical and structural changes induced by ionic motion and reaction in response to electrical stimuli leads to resistive switching effects in metal-insulator-metal structures. Filamentary switching based on the formation and rupture of nanoscale conductive filament has been applied in …&lt;/p&gt;
-&lt;div class=&quot;post-tags&quot; style=&quot;font-size:17px，margin:0&quot; &gt;
-    &lt;a href=&quot;/tags/resistive-random-access-memory-RRAM/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; resistive random access memory (RRAM)&lt;/a&gt;
-    &lt;a href=&quot;/tags/resistive-switching/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; resistive switching&lt;/a&gt;
-    &lt;a href=&quot;/tags/conductive-filament/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; conductive filament&lt;/a&gt;
-    &lt;a href=&quot;/tags/two%E2%80%90dimensional-materials/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; two‐dimensional materials&lt;/a&gt;
-    &lt;a href=&quot;/tags/performance-improvement/&quot; rel=&quot;tag&quot; data-pjax-state=&quot;&quot;&gt;&lt;i class=&quot;fa fa-tag&quot;&gt;&lt;/i&gt; performance improvement&lt;/a&gt;
+&lt;div class=&quot;post-tags&quot; style=&quot;margin:0;padding-top:5px;padding-bottom:0px&quot; &gt;
+    &lt;i class=&quot;fa fa-tags&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
+    &lt;a href=&quot;/tags/resistive-random-access-memory-RRAM/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;resistive random access memory (RRAM)&lt;/a&gt;
+    &lt;a href=&quot;/tags/resistive-switching/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;resistive switching&lt;/a&gt;
+    &lt;a href=&quot;/tags/conductive-filament/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;conductive filament&lt;/a&gt;
+    &lt;a href=&quot;/tags/two%E2%80%90dimensional-materials/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;two‐dimensional materials&lt;/a&gt;
+    &lt;a href=&quot;/tags/performance-improvement/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;performance improvement&lt;/a&gt;
 &lt;/div&gt;
     
     </summary>
     
+    
+      <category term="Memristor" scheme="https://yu-li.me/categories/Memristor/"/>
     
     
       <category term="resistive random access memory (RRAM)" scheme="https://yu-li.me/tags/resistive-random-access-memory-RRAM/"/>
@@ -319,11 +359,11 @@
     
       <category term="conductive filament" scheme="https://yu-li.me/tags/conductive-filament/"/>
     
+      <category term="2017" scheme="https://yu-li.me/tags/2017/"/>
+    
       <category term="two‐dimensional materials" scheme="https://yu-li.me/tags/two%E2%80%90dimensional-materials/"/>
     
       <category term="performance improvement" scheme="https://yu-li.me/tags/performance-improvement/"/>
-    
-      <category term="2017" scheme="https://yu-li.me/tags/2017/"/>
     
   </entry>
   
