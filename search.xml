@@ -24,6 +24,10 @@
             
             <tag> skyrmion </tag>
             
+            <tag> paper </tag>
+            
+            <tag> 2020 </tag>
+            
             <tag> Bloch point </tag>
             
             <tag> antiskyrmion </tag>
@@ -33,10 +37,6 @@
             <tag> terahertz </tag>
             
             <tag> chiral magnets </tag>
-            
-            <tag> paper </tag>
-            
-            <tag> 2020 </tag>
             
         </tags>
       
@@ -67,10 +67,6 @@
             
             <tag> skyrmion </tag>
             
-            <tag> paper </tag>
-            
-            <tag> 2020 </tag>
-            
             <tag> magnetic multilayer </tag>
             
             <tag> room temperature </tag>
@@ -80,6 +76,10 @@
             <tag> spiking neural networks (SNN) </tag>
             
             <tag> supervised/unsupervised learning </tag>
+            
+            <tag> paper </tag>
+            
+            <tag> 2020 </tag>
             
         </tags>
       
@@ -204,7 +204,7 @@
           
           <category> Magnetic skyrmion </category>
           
-          <category> Stability and transition </category>
+          <category> Stability </category>
           
           <category> Defects </category>
           

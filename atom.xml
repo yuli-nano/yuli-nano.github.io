@@ -52,6 +52,10 @@
     
       <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
     
+      <category term="paper" scheme="https://yu-li.me/tags/paper/"/>
+    
+      <category term="2020" scheme="https://yu-li.me/tags/2020/"/>
+    
       <category term="Bloch point" scheme="https://yu-li.me/tags/Bloch-point/"/>
     
       <category term="antiskyrmion" scheme="https://yu-li.me/tags/antiskyrmion/"/>
@@ -61,10 +65,6 @@
       <category term="terahertz" scheme="https://yu-li.me/tags/terahertz/"/>
     
       <category term="chiral magnets" scheme="https://yu-li.me/tags/chiral-magnets/"/>
-    
-      <category term="paper" scheme="https://yu-li.me/tags/paper/"/>
-    
-      <category term="2020" scheme="https://yu-li.me/tags/2020/"/>
     
   </entry>
   
@@ -104,10 +104,6 @@
     
       <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
     
-      <category term="paper" scheme="https://yu-li.me/tags/paper/"/>
-    
-      <category term="2020" scheme="https://yu-li.me/tags/2020/"/>
-    
       <category term="magnetic multilayer" scheme="https://yu-li.me/tags/magnetic-multilayer/"/>
     
       <category term="room temperature" scheme="https://yu-li.me/tags/room-temperature/"/>
@@ -117,6 +113,10 @@
       <category term="spiking neural networks (SNN)" scheme="https://yu-li.me/tags/spiking-neural-networks-SNN/"/>
     
       <category term="supervised/unsupervised learning" scheme="https://yu-li.me/tags/supervised-unsupervised-learning/"/>
+    
+      <category term="paper" scheme="https://yu-li.me/tags/paper/"/>
+    
+      <category term="2020" scheme="https://yu-li.me/tags/2020/"/>
     
   </entry>
   
@@ -245,7 +245,7 @@
     <link href="https://yu-li.me/20181112_Switching-of-ideal-defective-skyrmion-lattices.html"/>
     <id>https://yu-li.me/20181112_Switching-of-ideal-defective-skyrmion-lattices.html</id>
     <published>2018-11-11T16:00:00.000Z</published>
-    <updated>2020-07-16T12:12:46.007Z</updated>
+    <updated>2020-07-16T12:13:23.230Z</updated>
     
     <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20181112_Switching-of-ideal-defective-skyrmion-lattices.png"><p>(Abstract) Magnetic phase transitions are a manifestation of competing interactions whose behavior is critically modified by defects and becomes even more complex when topological constraints are involved. In particular, the investigation of skyrmions and skyrmion lattices offers insight into fundamental processes of topological-charge creation and annihilation upon changing the magnetic state. Nonetheless, the exact physical mechanisms behind these phase transitions remain unresolved. Here, we show numerically that it is possible to collectively reverse the polarity of a skyrmion lattice in a field-induced first-order phase transition via a transient antiskyrmion-lattice state. We thus propose a new type of phase transformation where a skyrmion lattice inverts to another one due to topological constraints. In the presence of even a single defect, the process becomes a second-order phase transition with gradual topological-charge melting. This radical change in the system’s behavior from a first-order to a second-order phase transition demonstrates that defects in real materials could prevent us from observing collective topological phenomena. We have systematically compared ultra-thin films with isotropic and anisotropic Dzyaloshinskii-Moriya interactions (DMIs), and demonstrated a nearly identical behavior for such technologically relevant interfacial systems.</p><p><br></br></p><div class="note default">            <p><strong>Reference</strong><br /><font size=2.5>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films<br />L. Pierobon, C. Moutafis, <strong>Y. Li</strong>, J. F. Löffler, and M. Charilaou. <a href="https://www.nature.com/articles/s41598-018-34526-0" target="_blank" rel="noopener"><strong>Scientific Reports</strong></a> 8, 16675.<br /></font></p>          </div>]]></content>
     
@@ -267,9 +267,9 @@
     
       <category term="Magnetic skyrmion" scheme="https://yu-li.me/categories/Magnetic-skyrmion/"/>
     
-      <category term="Stability and transition" scheme="https://yu-li.me/categories/Magnetic-skyrmion/Stability-and-transition/"/>
+      <category term="Stability" scheme="https://yu-li.me/categories/Magnetic-skyrmion/Stability/"/>
     
-      <category term="Defects" scheme="https://yu-li.me/categories/Magnetic-skyrmion/Stability-and-transition/Defects/"/>
+      <category term="Defects" scheme="https://yu-li.me/categories/Magnetic-skyrmion/Stability/Defects/"/>
     
     
       <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
