@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>Our novel skyrmion-based synapses have launched 🚀</title>
+    <url>/20200615_New_skyrmionic_synapse.html</url>
+    <content><![CDATA[<p>(Abstract) Magnetic skyrmions have attracted considerable interest, especially after their recent experimental demonstration at room temperature in multilayers. The robustness, nanoscale size and non-volatility of skyrmions have triggered a substantial amount of research on skyrmion-based low-power, ultra-dense nanocomputing and neuromorphic systems such as artificial synapses. Room-temperature operation is required to integrate skyrmionic synapses in practical future devices. Here, we numerically propose a nanoscale skyrmionic synapse composed of magnetic multilayers that enables room-temperature device operation tailored for optimal synaptic resolution. We demonstrate that when embedding such multilayer skyrmionic synapses in a simple spiking neural network (SNN) with unsupervised learning via the spike-timing-dependent plasticity rule, we can achieve only a ∼78% classification accuracy in the MNIST handwritten data set under realistic conditions. We propose that this performance can be significantly improved to ∼98.61% by using a deep SNN with supervised learning. Our results illustrate that the proposed skyrmionic synapse can be a potential candidate for future energy-efficient neuromorphic edge computing.<br />
+<br></br></p>
+<div class="note default">
+            <p><strong>Reference</strong><br /><font size=2.5>Nanoscale room-temperature multilayer skyrmionic synapse for deep spiking neural networks<br />R. Chen, C. Li, <strong>Y. Li</strong>, J. J. Miles, G. Indiveri, S. Furber, V. F. Pavlidis, and C. Moutafis. <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.14.014096" target="_blank" rel="noopener"><strong>Physical Review Applied</strong></a> 14, 014096 (2020).<br /></font></p>
+          </div>]]></content>
+      <categories>
+        <category>Magnetic skyrmion</category>
+        <category>Application</category>
+        <category>Neurophonic computing</category>
+      </categories>
+      <tags>
+        <tag>skyrmion</tag>
+        <tag>magnetic multilayer</tag>
+        <tag>room temperature</tag>
+        <tag>neuromorphic computing</tag>
+        <tag>spiking neural networks (SNN)</tag>
+        <tag>supervised/unsupervised learning</tag>
+        <tag>paper</tag>
+        <tag>2020</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Congratulations on our new paper! ‘Tunable terahertz oscillation arising from Bloch-point dynamics in chiral magnets’</title>
     <url>/20200701_THz-Bloch-point-dynamics-PRRes.html</url>
     <content><![CDATA[<img style="margin: auto;" src="/images/20200701_BlochPointPaper.jpg" width="50%">
@@ -25,7 +49,7 @@
 </div></div></div></div>
 <p><br></br></p>
 <div class="note default">
-            <p><strong>Reference</strong><br /><font size=2.5>Tunable terahertz oscillation arising from Bloch-point dynamics in chiral magnets<br /><strong>Y. Li</strong>, L. Pierobon, M. Charilaou, H.-B. Braun, N. R. Walet, J. F. Löffler, J. J. Miles, C. Moutafis. <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033006" target="_blank" rel="noopener"><strong>Physical Review Research</strong></a>  2, 033006.<br /></font></p>
+            <p><strong>Reference</strong><br /><font size=2.5>Tunable terahertz oscillation arising from Bloch-point dynamics in chiral magnets<br /><strong>Y. Li</strong>, L. Pierobon, M. Charilaou, H.-B. Braun, N. R. Walet, J. F. Löffler, J. J. Miles, C. Moutafis. <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033006" target="_blank" rel="noopener"><strong>Physical Review Research</strong></a>  2, 033006 (2020).<br /></font></p>
           </div>]]></content>
       <categories>
         <category>Magnetic skyrmion</category>
@@ -33,35 +57,11 @@
       </categories>
       <tags>
         <tag>skyrmion</tag>
-        <tag>Bloch point</tag>
         <tag>antiskyrmion</tag>
+        <tag>Bloch point</tag>
         <tag>emergent electromagnetic field</tag>
         <tag>terahertz</tag>
         <tag>chiral magnets</tag>
-        <tag>paper</tag>
-        <tag>2020</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Our novel skyrmion-based synapses have launched 🚀</title>
-    <url>/20200615_New_skyrmionic_synapse_accepted.html</url>
-    <content><![CDATA[<p>(Abstract) Magnetic skyrmions have attracted considerable interest, especially after their recent experimental demonstration at room temperature in multilayers. The robustness, nanoscale size and non-volatility of skyrmions have triggered a substantial amount of research on skyrmion-based low-power, ultra-dense nanocomputing and neuromorphic systems such as artificial synapses. Room-temperature operation is required to integrate skyrmionic synapses in practical future devices. Here, we numerically propose a nanoscale skyrmionic synapse composed of magnetic multilayers that enables room-temperature device operation tailored for optimal synaptic resolution. We demonstrate that when embedding such multilayer skyrmionic synapses in a simple spiking neural network (SNN) with unsupervised learning via the spike-timing-dependent plasticity rule, we can achieve only a ∼78% classification accuracy in the MNIST handwritten data set under realistic conditions. We propose that this performance can be significantly improved to ∼98.61% by using a deep SNN with supervised learning. Our results illustrate that the proposed skyrmionic synapse can be a potential candidate for future energy-efficient neuromorphic edge computing.<br />
-<br></br></p>
-<div class="note default">
-            <p><strong>Reference</strong><br /><font size=2.5>Nanoscale room-temperature multilayer skyrmionic synapse for deep spiking neural networks<br />R. Chen, C. Li, <strong>Y. Li</strong>, J. Miles, G. Indiveri, S. Furber, V. F. Pavlidis, and C. Moutafis. <a href="https://journals.aps.org/prapplied/accepted/4f076Ac0Ce71dc0482122c9892c913fac38129667" target="_blank" rel="noopener"><strong>Physical Review Applied</strong></a> (Accepted).<br /></font></p>
-          </div>]]></content>
-      <categories>
-        <category>Magnetic skyrmion</category>
-        <category>Application</category>
-        <category>Neurophonic computing</category>
-      </categories>
-      <tags>
-        <tag>skyrmion</tag>
-        <tag>magnetic multilayer</tag>
-        <tag>room temperature</tag>
-        <tag>neuromorphic computing</tag>
-        <tag>spiking neural networks (SNN)</tag>
-        <tag>supervised/unsupervised learning</tag>
         <tag>paper</tag>
         <tag>2020</tag>
       </tags>
@@ -80,9 +80,9 @@
       </categories>
       <tags>
         <tag>skyrmion</tag>
+        <tag>British-German WE-Heraeus-Seminar</tag>
         <tag>conference</tag>
         <tag>2019</tag>
-        <tag>British-German WE-Heraeus-Seminar</tag>
       </tags>
   </entry>
   <entry>
@@ -99,9 +99,9 @@
       </categories>
       <tags>
         <tag>skyrmion</tag>
+        <tag>antiskyrmion</tag>
         <tag>2019</tag>
         <tag>Bloch point</tag>
-        <tag>antiskyrmion</tag>
         <tag>emergent electromagnetic field</tag>
         <tag>terahertz</tag>
         <tag>chiral magnets</tag>
@@ -124,9 +124,9 @@
       </categories>
       <tags>
         <tag>skyrmion</tag>
-        <tag>HMM</tag>
         <tag>conference</tag>
         <tag>2019</tag>
+        <tag>HMM</tag>
       </tags>
   </entry>
   <entry>
@@ -136,7 +136,7 @@
 <p>(Abstract) Magnetic phase transitions are a manifestation of competing interactions whose behavior is critically modified by defects and becomes even more complex when topological constraints are involved. In particular, the investigation of skyrmions and skyrmion lattices offers insight into fundamental processes of topological-charge creation and annihilation upon changing the magnetic state. Nonetheless, the exact physical mechanisms behind these phase transitions remain unresolved. Here, we show numerically that it is possible to collectively reverse the polarity of a skyrmion lattice in a field-induced first-order phase transition via a transient antiskyrmion-lattice state. We thus propose a new type of phase transformation where a skyrmion lattice inverts to another one due to topological constraints. In the presence of even a single defect, the process becomes a second-order phase transition with gradual topological-charge melting. This radical change in the system’s behavior from a first-order to a second-order phase transition demonstrates that defects in real materials could prevent us from observing collective topological phenomena. We have systematically compared ultra-thin films with isotropic and anisotropic Dzyaloshinskii-Moriya interactions (DMIs), and demonstrated a nearly identical behavior for such technologically relevant interfacial systems.</p>
 <p><br></br></p>
 <div class="note default">
-            <p><strong>Reference</strong><br /><font size=2.5>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films<br />L. Pierobon, C. Moutafis, <strong>Y. Li</strong>, J. F. Löffler, and M. Charilaou. <a href="https://www.nature.com/articles/s41598-018-34526-0" target="_blank" rel="noopener"><strong>Scientific Reports</strong></a> 8, 16675.<br /></font></p>
+            <p><strong>Reference</strong><br /><font size=2.5>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films<br />L. Pierobon, C. Moutafis, <strong>Y. Li</strong>, J. F. Löffler, and M. Charilaou. <a href="https://www.nature.com/articles/s41598-018-34526-0" target="_blank" rel="noopener"><strong>Scientific Reports</strong></a> 8, 16675 (2018).<br /></font></p>
           </div>]]></content>
       <categories>
         <category>Magnetic skyrmion</category>
@@ -145,8 +145,8 @@
       </categories>
       <tags>
         <tag>skyrmion</tag>
-        <tag>antiskyrmion</tag>
         <tag>skyrmion lattice</tag>
+        <tag>antiskyrmion</tag>
         <tag>field-induced transition</tag>
         <tag>defects</tag>
         <tag>2018</tag>
@@ -159,17 +159,17 @@
 (Abstract) In resistive random access memories, modeling conductive filament growing dynamics is important to understand the switching mechanism and variability. In this paper, a universal Monte Carlo simulator is developed based on a cell switching model and a tunneling-based transport model. Driven by external electric field, the growing process of the nanoscale filament occurring in the gap region is actually dominated by cells’ conductive/insulating switching, modeled through a phenomenological physics-based probability function. The electric transport through the partially formed CF is considered as current tunneling in the framework of the Quantum Point Contact model, and the potential barrier is modulated during cells’ evolution. To demonstrate the validity and universality of our simulator, various operation schemes are simulated, with the simulated I − V characteristics well explaining experimental observations. Furthermore, the statistical analyses of simulation results in terms of Weibull distribution and conductance evolution also nicely track previous experimental results. Representing a simulation scale that links atomic-scale simulations to compact modeling, our simulator has the advantage of being much faster comparing with other atomic-scale models. Meanwhile, our simulator shows good universality since it can be applied to various operation signals, and also to different electrodes and dielectric layers dominated by different switching mechanisms.
 <br></br>
 <div class="note default">
-            <p><strong>Reference</strong><br /><font size=2.5>Investigation on the conductive filament growth dynamics in resistive switching memory via a universal Monte Carlo simulator<br /><strong>Y. Li</strong>, M. Zhang, S. Long, J. Teng, Q. Liu, H. Lv, E. Miranda, J. Suñé, and M. Liu. <a href="https://www.nature.com/articles/s41598-017-11165-5#Sec16" target="_blank" rel="noopener"><strong>Scientific Reports</strong></a> 7, 11204.<br /></font></p>
+            <p><strong>Reference</strong><br /><font size=2.5>Investigation on the conductive filament growth dynamics in resistive switching memory via a universal Monte Carlo simulator<br /><strong>Y. Li</strong>, M. Zhang, S. Long, J. Teng, Q. Liu, H. Lv, E. Miranda, J. Suñé, and M. Liu. <a href="https://www.nature.com/articles/s41598-017-11165-5#Sec16" target="_blank" rel="noopener"><strong>Scientific Reports</strong></a> 7, 11204 (2017).<br /></font></p>
           </div>]]></content>
       <categories>
         <category>Memristor</category>
       </categories>
       <tags>
         <tag>resistive random access memory (RRAM)</tag>
-        <tag>Monte Carlo</tag>
         <tag>resistive switching</tag>
         <tag>conductive filament</tag>
         <tag>2017</tag>
+        <tag>Monte Carlo</tag>
       </tags>
   </entry>
   <entry>
@@ -179,7 +179,7 @@
 <p>(Abstract) Reversible chemical and structural changes induced by ionic motion and reaction in response to electrical stimuli leads to resistive switching effects in metal-insulator-metal structures. Filamentary switching based on the formation and rupture of nanoscale conductive filament has been applied in non-volatile memory and volatile selector devices with low power consumption and fast switching speeds. Before the mass production of resistive switching devices, great efforts are still required to enable stable and reliable switching performances. The conductive filament, a bridge of microscopic metal-insulator-metal structure and macroscopic resistance states, plays an irreplaceable part in resistive switching behavior, as unreliable performance often originates from unstable filament behavior. In this Review, departing from the filamentary switching mechanism and the existing issues, recent advances of the switching performance improvement through the conductive filament modulation are discussed, in the sequence of material modulation, device structure design and switching operation scheme optimization. In particular, two-dimensional (2D) nanomaterials with excellent properties including and beyond graphene, are discussed with emphasis on performance improvement by their active roles as the switching layer, insertion layer, thin electrode, patterned electrode, and edge electrode, etc.<br />
 <br></br></p>
 <div class="note default">
-            <p><strong>Reference</strong><br /><font size=2.5>Resistive switching performance improvement via modulating nanoscale conductive filament,involving the application of two‐dimensional layered materials<br /><strong>Y. Li</strong>, S. Long, Q. Liu, H. Lv, and M. Liu. <a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.201604306" target="_blank" rel="noopener"><strong>Small</strong></a> 13, 1604306   - selected as <a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.201770187" target="_blank" rel="noopener"><strong>cover picture</strong></a>.<br /></font></p>
+            <p><strong>Reference</strong><br /><font size=2.5>Resistive switching performance improvement via modulating nanoscale conductive filament,involving the application of two‐dimensional layered materials<br /><strong>Y. Li</strong>, S. Long, Q. Liu, H. Lv, and M. Liu. <a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.201604306" target="_blank" rel="noopener"><strong>Small</strong></a> 13, 1604306 (2017)   - selected as <a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.201770187" target="_blank" rel="noopener"><strong>cover picture</strong></a>.<br /></font></p>
           </div>]]></content>
       <categories>
         <category>Memristor</category>
@@ -188,9 +188,9 @@
         <tag>resistive random access memory (RRAM)</tag>
         <tag>resistive switching</tag>
         <tag>conductive filament</tag>
-        <tag>2017</tag>
         <tag>two‐dimensional materials</tag>
         <tag>performance improvement</tag>
+        <tag>2017</tag>
       </tags>
   </entry>
 </search>
