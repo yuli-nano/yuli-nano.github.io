@@ -52,6 +52,10 @@
       <category term="Materials surface topography" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Spin-textures/Meronlike-spin-textures/Materials-surface-topography/"/>
     
     
+      <category term="paper" scheme="https://yu-li.me/tags/paper/"/>
+    
+      <category term="2020" scheme="https://yu-li.me/tags/2020/"/>
+    
       <category term="surface roughness" scheme="https://yu-li.me/tags/surface-roughness/"/>
     
       <category term="atomic force microscopy" scheme="https://yu-li.me/tags/atomic-force-microscopy/"/>
@@ -61,10 +65,6 @@
       <category term="Dzyaloshinskii-Moriya interaction (DMI)" scheme="https://yu-li.me/tags/Dzyaloshinskii-Moriya-interaction-DMI/"/>
     
       <category term="meron" scheme="https://yu-li.me/tags/meron/"/>
-    
-      <category term="paper" scheme="https://yu-li.me/tags/paper/"/>
-    
-      <category term="2020" scheme="https://yu-li.me/tags/2020/"/>
     
   </entry>
   
@@ -87,6 +87,20 @@
     </summary>
     
     
+      <category term="Magnetism and spintronics" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/"/>
+    
+      <category term="Magnetic skyrmion" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Magnetic-skyrmion/"/>
+    
+    
+      <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
+    
+      <category term="skyrmion lattice" scheme="https://yu-li.me/tags/skyrmion-lattice/"/>
+    
+      <category term="antiskyrmion" scheme="https://yu-li.me/tags/antiskyrmion/"/>
+    
+      <category term="conference" scheme="https://yu-li.me/tags/conference/"/>
+    
+      <category term="2020" scheme="https://yu-li.me/tags/2020/"/>
     
   </entry>
   
@@ -117,6 +131,30 @@
     </summary>
     
     
+      <category term="Magnetism and spintronics" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/"/>
+    
+      <category term="Magnetic skyrmion" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Magnetic-skyrmion/"/>
+    
+      <category term="Application" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Magnetic-skyrmion/Application/"/>
+    
+      <category term="Neurophonic computing" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Magnetic-skyrmion/Application/Neurophonic-computing/"/>
+    
+    
+      <category term="paper" scheme="https://yu-li.me/tags/paper/"/>
+    
+      <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
+    
+      <category term="magnetic multilayer" scheme="https://yu-li.me/tags/magnetic-multilayer/"/>
+    
+      <category term="room temperature" scheme="https://yu-li.me/tags/room-temperature/"/>
+    
+      <category term="neuromorphic computing" scheme="https://yu-li.me/tags/neuromorphic-computing/"/>
+    
+      <category term="spiking neural networks (SNN)" scheme="https://yu-li.me/tags/spiking-neural-networks-SNN/"/>
+    
+      <category term="supervised/unsupervised learning" scheme="https://yu-li.me/tags/supervised-unsupervised-learning/"/>
+    
+      <category term="2020" scheme="https://yu-li.me/tags/2020/"/>
     
   </entry>
   
@@ -149,6 +187,30 @@
     </summary>
     
     
+      <category term="Magnetism and spintronics" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/"/>
+    
+      <category term="Magnetic skyrmion" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Magnetic-skyrmion/"/>
+    
+      <category term="3D dyanmic transition" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Magnetic-skyrmion/3D-dyanmic-transition/"/>
+    
+    
+      <category term="paper" scheme="https://yu-li.me/tags/paper/"/>
+    
+      <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
+    
+      <category term="antiskyrmion" scheme="https://yu-li.me/tags/antiskyrmion/"/>
+    
+      <category term="2020" scheme="https://yu-li.me/tags/2020/"/>
+    
+      <category term="Bloch point" scheme="https://yu-li.me/tags/Bloch-point/"/>
+    
+      <category term="emergent electromagnetic field" scheme="https://yu-li.me/tags/emergent-electromagnetic-field/"/>
+    
+      <category term="terahertz" scheme="https://yu-li.me/tags/terahertz/"/>
+    
+      <category term="chiral magnets" scheme="https://yu-li.me/tags/chiral-magnets/"/>
+    
+      <category term="magnetic transition" scheme="https://yu-li.me/tags/magnetic-transition/"/>
     
   </entry>
   
@@ -177,6 +239,20 @@
     </summary>
     
     
+      <category term="Magnetism and spintronics" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/"/>
+    
+      <category term="Magnetic skyrmion" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Magnetic-skyrmion/"/>
+    
+      <category term="3D dyanmic transition" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Magnetic-skyrmion/3D-dyanmic-transition/"/>
+    
+    
+      <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
+    
+      <category term="conference" scheme="https://yu-li.me/tags/conference/"/>
+    
+      <category term="2019" scheme="https://yu-li.me/tags/2019/"/>
+    
+      <category term="British-German WE-Heraeus-Seminar" scheme="https://yu-li.me/tags/British-German-WE-Heraeus-Seminar/"/>
     
   </entry>
   
@@ -206,6 +282,26 @@
     </summary>
     
     
+      <category term="Magnetism and spintronics" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/"/>
+    
+      <category term="Magnetic skyrmion" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Magnetic-skyrmion/"/>
+    
+      <category term="3D dyanmic transition" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Magnetic-skyrmion/3D-dyanmic-transition/"/>
+    
+    
+      <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
+    
+      <category term="antiskyrmion" scheme="https://yu-li.me/tags/antiskyrmion/"/>
+    
+      <category term="2019" scheme="https://yu-li.me/tags/2019/"/>
+    
+      <category term="Bloch point" scheme="https://yu-li.me/tags/Bloch-point/"/>
+    
+      <category term="emergent electromagnetic field" scheme="https://yu-li.me/tags/emergent-electromagnetic-field/"/>
+    
+      <category term="terahertz" scheme="https://yu-li.me/tags/terahertz/"/>
+    
+      <category term="chiral magnets" scheme="https://yu-li.me/tags/chiral-magnets/"/>
     
   </entry>
   
@@ -229,6 +325,20 @@
     </summary>
     
     
+      <category term="Magnetism and spintronics" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/"/>
+    
+      <category term="Magnetic skyrmion" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Magnetic-skyrmion/"/>
+    
+      <category term="3D dyanmic transition" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Magnetic-skyrmion/3D-dyanmic-transition/"/>
+    
+    
+      <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
+    
+      <category term="HMM" scheme="https://yu-li.me/tags/HMM/"/>
+    
+      <category term="conference" scheme="https://yu-li.me/tags/conference/"/>
+    
+      <category term="2019" scheme="https://yu-li.me/tags/2019/"/>
     
   </entry>
   
@@ -259,6 +369,28 @@
     </summary>
     
     
+      <category term="Magnetism and spintronics" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/"/>
+    
+      <category term="Magnetic skyrmion" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Magnetic-skyrmion/"/>
+    
+      <category term="Stability" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Magnetic-skyrmion/Stability/"/>
+    
+      <category term="Defects" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Magnetic-skyrmion/Stability/Defects/"/>
+    
+    
+      <category term="paper" scheme="https://yu-li.me/tags/paper/"/>
+    
+      <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
+    
+      <category term="skyrmion lattice" scheme="https://yu-li.me/tags/skyrmion-lattice/"/>
+    
+      <category term="antiskyrmion" scheme="https://yu-li.me/tags/antiskyrmion/"/>
+    
+      <category term="field-induced transition" scheme="https://yu-li.me/tags/field-induced-transition/"/>
+    
+      <category term="defects" scheme="https://yu-li.me/tags/defects/"/>
+    
+      <category term="2018" scheme="https://yu-li.me/tags/2018/"/>
     
   </entry>
   
@@ -288,6 +420,20 @@
     </summary>
     
     
+      <category term="Memristor" scheme="https://yu-li.me/categories/Memristor/"/>
+    
+    
+      <category term="resistive random access memory (RRAM)" scheme="https://yu-li.me/tags/resistive-random-access-memory-RRAM/"/>
+    
+      <category term="Monte Carlo" scheme="https://yu-li.me/tags/Monte-Carlo/"/>
+    
+      <category term="resistive switching" scheme="https://yu-li.me/tags/resistive-switching/"/>
+    
+      <category term="conductive filament" scheme="https://yu-li.me/tags/conductive-filament/"/>
+    
+      <category term="paper" scheme="https://yu-li.me/tags/paper/"/>
+    
+      <category term="2017" scheme="https://yu-li.me/tags/2017/"/>
     
   </entry>
   
@@ -318,6 +464,22 @@
     </summary>
     
     
+      <category term="Memristor" scheme="https://yu-li.me/categories/Memristor/"/>
+    
+    
+      <category term="resistive random access memory (RRAM)" scheme="https://yu-li.me/tags/resistive-random-access-memory-RRAM/"/>
+    
+      <category term="resistive switching" scheme="https://yu-li.me/tags/resistive-switching/"/>
+    
+      <category term="conductive filament" scheme="https://yu-li.me/tags/conductive-filament/"/>
+    
+      <category term="paper" scheme="https://yu-li.me/tags/paper/"/>
+    
+      <category term="2017" scheme="https://yu-li.me/tags/2017/"/>
+    
+      <category term="two‐dimensional materials" scheme="https://yu-li.me/tags/two%E2%80%90dimensional-materials/"/>
+    
+      <category term="performance improvement" scheme="https://yu-li.me/tags/performance-improvement/"/>
     
   </entry>
   

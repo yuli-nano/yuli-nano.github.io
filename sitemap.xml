@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yu-li.me/Publications/index.html</loc>
+    
+    <lastmod>2020-11-13T17:37:59.256Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yu-li.me/20201113_Roughness_model_PRAppl.html</loc>
     
     <lastmod>2020-11-13T17:26:18.236Z</lastmod>
@@ -68,13 +75,6 @@
     <loc>https://yu-li.me/20170911_A-Monte-Carlo-model-for-RRAM-switching.html</loc>
     
     <lastmod>2020-10-17T21:06:16.552Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yu-li.me/Publications/index.html</loc>
-    
-    <lastmod>2020-10-17T21:04:24.153Z</lastmod>
     
   </url>
   
