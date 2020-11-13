@@ -2,10 +2,10 @@
 <search>
   <entry>
     <title>Surface roughness helps to stabilise out-of-plane spin textures in an uniformly in-plane magnetised system</title>
-    <url>/20201015_Roughness_model_PRAppl.html</url>
+    <url>/20201113_Roughness_model_PRAppl.html</url>
     <content><![CDATA[<p>(Abstract) Interfacing magnetic materials with non-magnetic heavy metals with a large spin-orbit coupling, such as Pt, results in an asymmetric exchange interaction at the interface due to the Dzyaloshinskii-Moriya interaction (DMI), which in turn leads to the formation of skyrmions and topological spin structures in perpendicularly magnetised multilayers. Here we show that out of plane spin structures with lateral dimensions from 200 nm to 2μm are stabilised in in-plane magnetised Ta/Co/Pt trilayer structures. We show that these spin textures are largely insensitive to the direction of the in-plane magnetisation switched by either magnetic fields or electric fields applied across a Si3N4 gate dielectric. The results of micromagnetic simulations indicate that DMI is required for the stabilisation of such out of plane domains and that the presence of surface roughness helps to stabilise larger structures, in agreement with experimental results. We identify these spin structures as meron-like topological textures, characterized by a perpendicular spin texture in an uniformly in-plane magnetised system.</p>
 <div class="note default">
-            <p><strong>Reference</strong><br /><font size=2.5>Meronlike spin textures in in-plane-magnetized thin films<br />J. Vijayakumar, <strong>Y. Li</strong>; D. Bracher, C. W. Barton, M. Horisberger, T. Thomson, J. Miles, C. Moutafis, F. Nolting, C. A. F. Vaz. Accepted by <a href="https://webcache.googleusercontent.com/search?q=cache:rZXJDJZMuMwJ:https://journals.aps.org/prapplied/accepted/16075A4aF501ca0cb23337a4febf01c721fe89b4e+&amp;cd=1&amp;hl=en&amp;ct=clnk&amp;gl=uk" target="_blank" rel="noopener"><strong>Physical Review Applied</strong></a> (2020).<br /></font></p>
+            <p><strong>Reference</strong><br /><font size=2.5>Meronlike spin textures in in-plane-magnetized thin films<br />J. Vijayakumar, <strong>Y. Li</strong>; D. Bracher, C. W. Barton, M. Horisberger, T. Thomson, J. Miles, C. Moutafis, F. Nolting, C. A. F. Vaz. Accepted by <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.14.054031" target="_blank" rel="noopener"><strong>Physical Review Applied</strong></a> 14, 054031 (2020).<br /></font></p>
           </div>]]></content>
       <categories>
         <category>Magnetism and spintronics</category>
@@ -14,13 +14,13 @@
         <category>Materials surface topography</category>
       </categories>
       <tags>
-        <tag>paper</tag>
-        <tag>2020</tag>
         <tag>surface roughness</tag>
         <tag>atomic force microscopy</tag>
+        <tag>Pt/Co/Ta</tag>
         <tag>Dzyaloshinskii-Moriya interaction (DMI)</tag>
         <tag>meron</tag>
-        <tag>Pt/Co/Ta</tag>
+        <tag>paper</tag>
+        <tag>2020</tag>
       </tags>
   </entry>
   <entry>
@@ -35,17 +35,6 @@
     <a href="/tags/conference/" rel="tag" style="margin:0;padding-right:5px">conference</a>
     <a href="/tags/2020/" rel="tag" style="margin:0;padding-right:5px">2020</a>
 </div>]]></content>
-      <categories>
-        <category>Magnetism and spintronics</category>
-        <category>Magnetic skyrmion</category>
-      </categories>
-      <tags>
-        <tag>skyrmion</tag>
-        <tag>conference</tag>
-        <tag>skyrmion lattice</tag>
-        <tag>antiskyrmion</tag>
-        <tag>2020</tag>
-      </tags>
   </entry>
   <entry>
     <title>Our novel skyrmion-based synapses have launched 🚀</title>
@@ -55,22 +44,6 @@
 <div class="note default">
             <p><strong>Reference</strong><br /><font size=2.5>Nanoscale room-temperature multilayer skyrmionic synapse for deep spiking neural networks<br />R. Chen, C. Li, <strong>Y. Li</strong>, J. J. Miles, G. Indiveri, S. Furber, V. F. Pavlidis, and C. Moutafis. <a href="https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.14.014096" target="_blank" rel="noopener"><strong>Physical Review Applied</strong></a> 14, 014096 (2020).<br /></font></p>
           </div>]]></content>
-      <categories>
-        <category>Magnetism and spintronics</category>
-        <category>Magnetic skyrmion</category>
-        <category>Application</category>
-        <category>Neurophonic computing</category>
-      </categories>
-      <tags>
-        <tag>skyrmion</tag>
-        <tag>magnetic multilayer</tag>
-        <tag>room temperature</tag>
-        <tag>neuromorphic computing</tag>
-        <tag>spiking neural networks (SNN)</tag>
-        <tag>supervised/unsupervised learning</tag>
-        <tag>paper</tag>
-        <tag>2020</tag>
-      </tags>
   </entry>
   <entry>
     <title>Congratulations on our new paper! ‘Tunable terahertz oscillation arising from Bloch-point dynamics in chiral magnets’</title>
@@ -99,22 +72,6 @@
 <div class="note default">
             <p><strong>Reference</strong><br /><font size=2.5>Tunable terahertz oscillation arising from Bloch-point dynamics in chiral magnets<br /><strong>Y. Li</strong>, L. Pierobon, M. Charilaou, H.-B. Braun, N. R. Walet, J. F. Löffler, J. J. Miles, C. Moutafis. <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.033006" target="_blank" rel="noopener"><strong>Physical Review Research</strong></a>  2, 033006 (2020).<br /></font></p>
           </div>]]></content>
-      <categories>
-        <category>Magnetism and spintronics</category>
-        <category>Magnetic skyrmion</category>
-        <category>3D dyanmic transition</category>
-      </categories>
-      <tags>
-        <tag>skyrmion</tag>
-        <tag>antiskyrmion</tag>
-        <tag>paper</tag>
-        <tag>2020</tag>
-        <tag>Bloch point</tag>
-        <tag>emergent electromagnetic field</tag>
-        <tag>terahertz</tag>
-        <tag>chiral magnets</tag>
-        <tag>magnetic transition</tag>
-      </tags>
   </entry>
   <entry>
     <title>„Skyrmions in Magnetic Materials“ seminar @Bad Honnef, Germany</title>
@@ -124,17 +81,6 @@
 <blockquote class="blockquote-center"><p><em>Building on the long tradition of close collaborations of the scientific communities in the United Kingdom, France, Poland, and Germany, these Seminars aim to foster the exchange and scientific cooperation between research groups in these countries on a bi-national level as a means to promote the European spirit.</em></p>
 </blockquote>
 <p>In the poster session, I was honored to present our recent work: <em>„Tuneable Bloch-point dynamics during switching of skyrmions and antiskyrmions in chiral magnets”</em> (manuscript available on <a href="https://arxiv.org/pdf/1911.12781.pdf" target="_blank" rel="noopener"><strong>arXiv</strong></a>), and I also won the <strong>best poster prize</strong>!</p>]]></content>
-      <categories>
-        <category>Magnetism and spintronics</category>
-        <category>Magnetic skyrmion</category>
-        <category>3D dyanmic transition</category>
-      </categories>
-      <tags>
-        <tag>skyrmion</tag>
-        <tag>British-German WE-Heraeus-Seminar</tag>
-        <tag>conference</tag>
-        <tag>2019</tag>
-      </tags>
   </entry>
   <entry>
     <title>THz-oscillating electric signal from Bloch point dynamics</title>
@@ -144,20 +90,6 @@
 <div class="note default">
             <p><strong>Reference</strong><br /><font size=2.5>Tuneable terahertz oscillation arising from Bloch-point dynamics in chiral magnets<br /><strong>Y. Li</strong>, L. Pierobon, M. Charilaou, H.-B. Braun, N. R. Walet, J. F. Löffler, J. J. Miles, C. Moutafis. <a href="https://arxiv.org/abs/1911.12781" target="_blank" rel="noopener"><strong>arXiv</strong></a> 7, 11204.<br /></font></p>
           </div>]]></content>
-      <categories>
-        <category>Magnetism and spintronics</category>
-        <category>Magnetic skyrmion</category>
-        <category>3D dyanmic transition</category>
-      </categories>
-      <tags>
-        <tag>skyrmion</tag>
-        <tag>2019</tag>
-        <tag>antiskyrmion</tag>
-        <tag>Bloch point</tag>
-        <tag>emergent electromagnetic field</tag>
-        <tag>terahertz</tag>
-        <tag>chiral magnets</tag>
-      </tags>
   </entry>
   <entry>
     <title>HMM 2019 @Crete, Greece</title>
@@ -171,17 +103,6 @@
 	<a href="/tags/conference/" rel="tag" style="margin:0;padding-right:5px">conference</a>
   <a href="/tags/2019/" rel="tag" style="margin:0;padding-right:5px">2019</a>
 </div>]]></content>
-      <categories>
-        <category>Magnetism and spintronics</category>
-        <category>Magnetic skyrmion</category>
-        <category>3D dyanmic transition</category>
-      </categories>
-      <tags>
-        <tag>skyrmion</tag>
-        <tag>conference</tag>
-        <tag>2019</tag>
-        <tag>HMM</tag>
-      </tags>
   </entry>
   <entry>
     <title>Magnetic switching of ideal/defective skyrmion lattices</title>
@@ -192,21 +113,6 @@
 <div class="note default">
             <p><strong>Reference</strong><br /><font size=2.5>Collective antiskyrmion-mediated phase transition and defect-induced melting in chiral magnetic films<br />L. Pierobon, C. Moutafis, <strong>Y. Li</strong>, J. F. Löffler, and M. Charilaou. <a href="https://www.nature.com/articles/s41598-018-34526-0" target="_blank" rel="noopener"><strong>Scientific Reports</strong></a> 8, 16675 (2018).<br /></font></p>
           </div>]]></content>
-      <categories>
-        <category>Magnetism and spintronics</category>
-        <category>Magnetic skyrmion</category>
-        <category>Stability</category>
-        <category>Defects</category>
-      </categories>
-      <tags>
-        <tag>skyrmion</tag>
-        <tag>skyrmion lattice</tag>
-        <tag>antiskyrmion</tag>
-        <tag>field-induced transition</tag>
-        <tag>defects</tag>
-        <tag>2018</tag>
-        <tag>paper</tag>
-      </tags>
   </entry>
   <entry>
     <title>A universal Monte Carlo model for RRAM switching</title>
@@ -217,17 +123,6 @@
 <div class="note default">
             <p><strong>Reference</strong><br /><font size=2.5>Investigation on the conductive filament growth dynamics in resistive switching memory via a universal Monte Carlo simulator<br /><strong>Y. Li</strong>, M. Zhang, S. Long, J. Teng, Q. Liu, H. Lv, E. Miranda, J. Suñé, and M. Liu. <a href="https://www.nature.com/articles/s41598-017-11165-5#Sec16" target="_blank" rel="noopener"><strong>Scientific Reports</strong></a> 7, 11204 (2017).<br /></font></p>
           </div>]]></content>
-      <categories>
-        <category>Memristor</category>
-      </categories>
-      <tags>
-        <tag>resistive random access memory (RRAM)</tag>
-        <tag>resistive switching</tag>
-        <tag>conductive filament</tag>
-        <tag>2017</tag>
-        <tag>Monte Carlo</tag>
-        <tag>paper</tag>
-      </tags>
   </entry>
   <entry>
     <title>An overview of RRAM</title>
@@ -238,17 +133,5 @@
 <div class="note default">
             <p><strong>Reference</strong><br /><font size=2.5>Resistive switching performance improvement via modulating nanoscale conductive filament,involving the application of two‐dimensional layered materials<br /><strong>Y. Li</strong>, S. Long, Q. Liu, H. Lv, and M. Liu. <a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.201604306" target="_blank" rel="noopener"><strong>Small</strong></a> 13, 1604306 (2017)   - selected as <a href="https://onlinelibrary.wiley.com/doi/10.1002/smll.201770187" target="_blank" rel="noopener"><strong>cover picture</strong></a>.<br /></font></p>
           </div>]]></content>
-      <categories>
-        <category>Memristor</category>
-      </categories>
-      <tags>
-        <tag>resistive random access memory (RRAM)</tag>
-        <tag>resistive switching</tag>
-        <tag>conductive filament</tag>
-        <tag>two‐dimensional materials</tag>
-        <tag>performance improvement</tag>
-        <tag>2017</tag>
-        <tag>paper</tag>
-      </tags>
   </entry>
 </search>
