@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://yu-li.me/"/>
-  <updated>2020-11-13T17:26:18.236Z</updated>
+  <updated>2020-12-26T11:27:01.472Z</updated>
   <id>https://yu-li.me/</id>
   
   <author>
@@ -15,6 +15,58 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>An design of skyrmion-based interconnect device</title>
+    <link href="https://yu-li.me/20201203_Skyrrmion_interconnect.html"/>
+    <id>https://yu-li.me/20201203_Skyrrmion_interconnect.html</id>
+    <published>2020-12-03T00:00:00.000Z</published>
+    <updated>2020-12-26T11:27:01.472Z</updated>
+    
+    <content type="html"><![CDATA[<img style="margin: auto;" src="/images/20201203_Skyrrmion_interconnect.png" width="70%">(Abstract) The topological properties of skyrmionic quasiparticles such as magnetic skyrmions and skyrmioniums enable their applications in future low-power, ultradense nanocomputing and neuromorphic systems. We propose here an all-magnetic skyrmionic interconnect, which has so far been the “missing component.” This interconnect will be of relevance to future spintronic circuits as well as quantum computing where nanofabricated interconnects need to operate at cryogenic temperatures. Here, we propose a nanoscale skyrmionic interconnect device that exploits topological selectivity to achieve signal multiplexing, thereby reducing the number of interconnects by 50% with no additional overhead for control signals. We utilize systematic micromagnetic calculations to evaluate operational parameters from ideal conditions (0 K) to room temperature in a tailor-designed magnetic multilayer heterostructure in order to demonstrate the potential of a skyrmion-based nanoscale spintronics interconnect. Finally, we introduce pipelining, which is achieved with strategically etched notches, in order to achieve a superior throughput in multiplexing and demultiplexing signals. Our proposal widens the possibilities for future spintronics-based nanocomputing.<br></br><div class="note default">            <p><strong>Reference</strong><br /><font size=5>Skyrmionic interconnect device<br />R. Chen, <strong>Y. Li</strong>, V. F. Pavlidis, and C. Moutafis. <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043312" target="_blank" rel="noopener"><strong>Physical Review Research</strong></a> 2, 043312 (2020).<br /></font></p>          </div>]]></content>
+    
+    <summary type="html">
+    
+      &lt;img style=&quot;margin: auto;&quot; src=&quot;/images/20201203_Skyrrmion_interconnect.png&quot; width=&quot;70%&quot; &gt;
+&lt;p&gt;(Abstract) The topological properties of skyrmionic quasiparticles such as magnetic skyrmions and skyrmioniums enable their applications in future low-power, ultradense nanocomputing and neuromorphic systems. We propose here an all-magnetic skyrmionic interconnect, which has so far been the “missing component.” This interconnect will…&lt;/p&gt;
+&lt;div class=&quot;post-tags&quot; style=&quot;margin:0;padding-top:5px;padding-bottom:0px&quot; &gt;
+    &lt;i class=&quot;fa fa-tags&quot; aria-hidden=&quot;true&quot;&gt;&lt;/i&gt;
+    &lt;a href=&quot;/tags/skyrmion/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;skyrmion&lt;/a&gt;
+    &lt;a href=&quot;/tags/skyrmionium/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;skyrmionium&lt;/a&gt;
+    &lt;a href=&quot;/tags/magnetic-multilayer/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;magnetic multilayer&lt;/a&gt;
+    &lt;a href=&quot;/tags/room-temperature/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;room temperature&lt;/a&gt;
+    &lt;a href=&quot;/tags/interconnect/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;interconnect&lt;/a&gt;
+    &lt;a href=&quot;/tags/paper/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;paper&lt;/a&gt;
+    &lt;a href=&quot;/tags/2020/&quot; rel=&quot;tag&quot; style=&quot;margin:0;padding-right:5px&quot;&gt;2020&lt;/a&gt;
+&lt;/div&gt;
+    
+    </summary>
+    
+    
+      <category term="Magnetism and spintronics" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/"/>
+    
+      <category term="Magnetic skyrmion" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Magnetic-skyrmion/"/>
+    
+      <category term="Application" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Magnetic-skyrmion/Application/"/>
+    
+      <category term="interconnect" scheme="https://yu-li.me/categories/Magnetism-and-spintronics/Magnetic-skyrmion/Application/interconnect/"/>
+    
+    
+      <category term="paper" scheme="https://yu-li.me/tags/paper/"/>
+    
+      <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
+    
+      <category term="2020" scheme="https://yu-li.me/tags/2020/"/>
+    
+      <category term="skyrmionium" scheme="https://yu-li.me/tags/skyrmionium/"/>
+    
+      <category term="magnetic multilayer" scheme="https://yu-li.me/tags/magnetic-multilayer/"/>
+    
+      <category term="room temperature" scheme="https://yu-li.me/tags/room-temperature/"/>
+    
+      <category term="interconnect" scheme="https://yu-li.me/tags/interconnect/"/>
+    
+  </entry>
   
   <entry>
     <title>Surface roughness helps to stabilise out-of-plane spin textures in an uniformly in-plane magnetised system</title>
@@ -144,6 +196,8 @@
     
       <category term="skyrmion" scheme="https://yu-li.me/tags/skyrmion/"/>
     
+      <category term="2020" scheme="https://yu-li.me/tags/2020/"/>
+    
       <category term="magnetic multilayer" scheme="https://yu-li.me/tags/magnetic-multilayer/"/>
     
       <category term="room temperature" scheme="https://yu-li.me/tags/room-temperature/"/>
@@ -153,8 +207,6 @@
       <category term="spiking neural networks (SNN)" scheme="https://yu-li.me/tags/spiking-neural-networks-SNN/"/>
     
       <category term="supervised/unsupervised learning" scheme="https://yu-li.me/tags/supervised-unsupervised-learning/"/>
-    
-      <category term="2020" scheme="https://yu-li.me/tags/2020/"/>
     
   </entry>
   
@@ -200,8 +252,6 @@
     
       <category term="antiskyrmion" scheme="https://yu-li.me/tags/antiskyrmion/"/>
     
-      <category term="2020" scheme="https://yu-li.me/tags/2020/"/>
-    
       <category term="Bloch point" scheme="https://yu-li.me/tags/Bloch-point/"/>
     
       <category term="emergent electromagnetic field" scheme="https://yu-li.me/tags/emergent-electromagnetic-field/"/>
@@ -211,6 +261,8 @@
       <category term="chiral magnets" scheme="https://yu-li.me/tags/chiral-magnets/"/>
     
       <category term="magnetic transition" scheme="https://yu-li.me/tags/magnetic-transition/"/>
+    
+      <category term="2020" scheme="https://yu-li.me/tags/2020/"/>
     
   </entry>
   
@@ -425,8 +477,6 @@
     
       <category term="resistive random access memory (RRAM)" scheme="https://yu-li.me/tags/resistive-random-access-memory-RRAM/"/>
     
-      <category term="Monte Carlo" scheme="https://yu-li.me/tags/Monte-Carlo/"/>
-    
       <category term="resistive switching" scheme="https://yu-li.me/tags/resistive-switching/"/>
     
       <category term="conductive filament" scheme="https://yu-li.me/tags/conductive-filament/"/>
@@ -434,6 +484,8 @@
       <category term="paper" scheme="https://yu-li.me/tags/paper/"/>
     
       <category term="2017" scheme="https://yu-li.me/tags/2017/"/>
+    
+      <category term="Monte Carlo" scheme="https://yu-li.me/tags/Monte-Carlo/"/>
     
   </entry>
   
@@ -473,13 +525,13 @@
     
       <category term="conductive filament" scheme="https://yu-li.me/tags/conductive-filament/"/>
     
-      <category term="paper" scheme="https://yu-li.me/tags/paper/"/>
-    
-      <category term="2017" scheme="https://yu-li.me/tags/2017/"/>
-    
       <category term="two‐dimensional materials" scheme="https://yu-li.me/tags/two%E2%80%90dimensional-materials/"/>
     
       <category term="performance improvement" scheme="https://yu-li.me/tags/performance-improvement/"/>
+    
+      <category term="paper" scheme="https://yu-li.me/tags/paper/"/>
+    
+      <category term="2017" scheme="https://yu-li.me/tags/2017/"/>
     
   </entry>
   
