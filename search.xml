@@ -7,7 +7,7 @@
 (Abstract) The topological properties of skyrmionic quasiparticles such as magnetic skyrmions and skyrmioniums enable their applications in future low-power, ultradense nanocomputing and neuromorphic systems. We propose here an all-magnetic skyrmionic interconnect, which has so far been the “missing component.” This interconnect will be of relevance to future spintronic circuits as well as quantum computing where nanofabricated interconnects need to operate at cryogenic temperatures. Here, we propose a nanoscale skyrmionic interconnect device that exploits topological selectivity to achieve signal multiplexing, thereby reducing the number of interconnects by 50% with no additional overhead for control signals. We utilize systematic micromagnetic calculations to evaluate operational parameters from ideal conditions (0 K) to room temperature in a tailor-designed magnetic multilayer heterostructure in order to demonstrate the potential of a skyrmion-based nanoscale spintronics interconnect. Finally, we introduce pipelining, which is achieved with strategically etched notches, in order to achieve a superior throughput in multiplexing and demultiplexing signals. Our proposal widens the possibilities for future spintronics-based nanocomputing.
 <br></br>
 <div class="note default">
-            <p><strong>Reference</strong><br /><font size=5>Skyrmionic interconnect device<br />R. Chen, <strong>Y. Li</strong>, V. F. Pavlidis, and C. Moutafis. <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043312" target="_blank" rel="noopener"><strong>Physical Review Research</strong></a> 2, 043312 (2020).<br /></font></p>
+            <p><strong>Reference</strong><br /><font size=2.5>Skyrmionic interconnect device<br />R. Chen, <strong>Y. Li</strong>, V. F. Pavlidis, and C. Moutafis. <a href="https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.043312" target="_blank" rel="noopener"><strong>Physical Review Research</strong></a> 2, 043312 (2020).<br /></font></p>
           </div>]]></content>
       <categories>
         <category>Magnetism and spintronics</category>
@@ -16,12 +16,12 @@
         <category>interconnect</category>
       </categories>
       <tags>
-        <tag>paper</tag>
         <tag>skyrmion</tag>
-        <tag>2020</tag>
-        <tag>skyrmionium</tag>
+        <tag>paper</tag>
         <tag>magnetic multilayer</tag>
         <tag>room temperature</tag>
+        <tag>2020</tag>
+        <tag>skyrmionium</tag>
         <tag>interconnect</tag>
       </tags>
   </entry>
@@ -87,14 +87,14 @@
         <category>Neurophonic computing</category>
       </categories>
       <tags>
-        <tag>paper</tag>
         <tag>skyrmion</tag>
-        <tag>2020</tag>
+        <tag>paper</tag>
         <tag>magnetic multilayer</tag>
         <tag>room temperature</tag>
         <tag>neuromorphic computing</tag>
         <tag>spiking neural networks (SNN)</tag>
         <tag>supervised/unsupervised learning</tag>
+        <tag>2020</tag>
       </tags>
   </entry>
   <entry>
@@ -130,15 +130,15 @@
         <category>3D dyanmic transition</category>
       </categories>
       <tags>
-        <tag>paper</tag>
         <tag>skyrmion</tag>
         <tag>antiskyrmion</tag>
+        <tag>paper</tag>
         <tag>Bloch point</tag>
         <tag>emergent electromagnetic field</tag>
         <tag>terahertz</tag>
         <tag>chiral magnets</tag>
-        <tag>magnetic transition</tag>
         <tag>2020</tag>
+        <tag>magnetic transition</tag>
       </tags>
   </entry>
   <entry>
@@ -156,8 +156,8 @@
       </categories>
       <tags>
         <tag>skyrmion</tag>
-        <tag>conference</tag>
         <tag>2019</tag>
+        <tag>conference</tag>
         <tag>British-German WE-Heraeus-Seminar</tag>
       </tags>
   </entry>
@@ -177,11 +177,11 @@
       <tags>
         <tag>skyrmion</tag>
         <tag>antiskyrmion</tag>
-        <tag>2019</tag>
         <tag>Bloch point</tag>
         <tag>emergent electromagnetic field</tag>
         <tag>terahertz</tag>
         <tag>chiral magnets</tag>
+        <tag>2019</tag>
       </tags>
   </entry>
   <entry>
@@ -203,9 +203,9 @@
       </categories>
       <tags>
         <tag>skyrmion</tag>
+        <tag>2019</tag>
         <tag>HMM</tag>
         <tag>conference</tag>
-        <tag>2019</tag>
       </tags>
   </entry>
   <entry>
@@ -224,12 +224,12 @@
         <category>Defects</category>
       </categories>
       <tags>
-        <tag>paper</tag>
         <tag>skyrmion</tag>
         <tag>skyrmion lattice</tag>
         <tag>antiskyrmion</tag>
         <tag>field-induced transition</tag>
         <tag>defects</tag>
+        <tag>paper</tag>
         <tag>2018</tag>
       </tags>
   </entry>
@@ -246,10 +246,10 @@
         <category>Memristor</category>
       </categories>
       <tags>
+        <tag>paper</tag>
         <tag>resistive random access memory (RRAM)</tag>
         <tag>resistive switching</tag>
         <tag>conductive filament</tag>
-        <tag>paper</tag>
         <tag>2017</tag>
         <tag>Monte Carlo</tag>
       </tags>
@@ -267,12 +267,12 @@
         <category>Memristor</category>
       </categories>
       <tags>
+        <tag>paper</tag>
         <tag>resistive random access memory (RRAM)</tag>
         <tag>resistive switching</tag>
         <tag>conductive filament</tag>
         <tag>two‐dimensional materials</tag>
         <tag>performance improvement</tag>
-        <tag>paper</tag>
         <tag>2017</tag>
       </tags>
   </entry>
