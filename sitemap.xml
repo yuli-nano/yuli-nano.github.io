@@ -2,16 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://yu-li.me/20201203_Skyrrmion_interconnect.html</loc>
+    <loc>https://yu-li.me/About/index.html</loc>
     
-    <lastmod>2020-12-26T12:24:37.484Z</lastmod>
+    <lastmod>2020-12-26T22:40:37.542Z</lastmod>
     
   </url>
   
   <url>
     <loc>https://yu-li.me/Publications/index.html</loc>
     
-    <lastmod>2020-12-26T11:32:40.678Z</lastmod>
+    <lastmod>2020-12-26T22:38:32.799Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://yu-li.me/20201203_Skyrrmion_interconnect.html</loc>
+    
+    <lastmod>2020-12-26T12:24:37.484Z</lastmod>
     
   </url>
   
@@ -82,13 +89,6 @@
     <loc>https://yu-li.me/20170911_A-Monte-Carlo-model-for-RRAM-switching.html</loc>
     
     <lastmod>2020-10-17T21:06:16.552Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://yu-li.me/About/index.html</loc>
-    
-    <lastmod>2020-10-16T20:57:09.964Z</lastmod>
     
   </url>
   
